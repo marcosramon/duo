@@ -6,17 +6,17 @@ title: Duo, A Simple Jekyll Theme
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://marcosramon.net"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/duo/"
+baseurl:
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "mrtollens"
 author:
-  twitter: "chibicode"
+  twitter: "mrtollens"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -42,7 +42,7 @@ permalink: posts/:title/
 google_analytics: ""
 
 # Language. For example, if you write in Japanese, use "ja"
-lang: "en"
+lang: "pt"
 
 # How many posts are visible on the home page without clicking "View More"
 num_posts_visible_initially: 5
