@@ -1,6 +1,7 @@
 ---
 title: "Japanese Test Case"
 lang: "ja"
+published: false
 
 # To set og:image:
 # image: ...
