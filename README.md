@@ -1,4 +1,4 @@
-![](https://github.com/marcosramon/marcosramon.net/blob/master/assets/images/gephi.png)
+![](/assets/images/gephi.png)
 
 ## O autor
 
