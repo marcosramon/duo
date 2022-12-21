@@ -1,5 +1,7 @@
 ![](/assets/images/gephi2.png)
 
+Meu nome é Marcos Ramon e aqui você encontra alguns textos meus. Outros links:
+
 - [Sobre](https://marcosramon.net/sobre/)
 - [Livros](https://marcosramon.net/livros/)
 - [Podcast](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA&nd=1)
