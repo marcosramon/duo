@@ -1,4 +1,4 @@
-![](/assets/images/gephi.png)
+![](/assets/images/gephi2.png)
 
 ## O autor
 
