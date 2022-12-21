@@ -1,5 +1,6 @@
 ---
 title: "Responsive Youtube Example"
+published: false
 
 # To set og:image:
 # image: ...
