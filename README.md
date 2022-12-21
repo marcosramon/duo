@@ -1,4 +1,4 @@
-![](https://chibicode.github.io/duo/static/images/og.jpg)
+![](https://github.com/marcosramon/marcosramon.net/blob/master/assets/images/gephi.png)
 
 ## O autor
 
