@@ -1,5 +1,6 @@
 ---
 title: "Customize Duo"
+published: false
 
 # To set og:image:
 # image: ...
