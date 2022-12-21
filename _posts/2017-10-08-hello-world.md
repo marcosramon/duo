@@ -1,5 +1,6 @@
 ---
 title: "Hello World"
+published: false
 
 # To set og:image:
 # image: ...
