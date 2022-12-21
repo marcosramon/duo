@@ -1,6 +1,7 @@
 ---
 title: "HTML Test Case"
 # https://github.com/cbracco/html5-test-page/
+published: false
 
 # To set og:image:
 # image: ...
