@@ -3,7 +3,7 @@
 ---
 ![](/assets/images/gephi2.png)
 
-Marcos Ramon | Professor de Filosofia, pesquisando estética e cibercultura. 
+Marcos Ramon | Professor de Filosofia, pesquisando estética e cibercultura.
 
 * [Sobre o autor](https://marcosramon.net/sobre/)
 * [Livros publicados](https://marcosramon.net/livros/)
