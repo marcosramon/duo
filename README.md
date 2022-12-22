@@ -1,6 +1,3 @@
----
-
----
 ![](/assets/images/gephi2.png)
 
 Marcos Ramon | Professor de Filosofia, pesquisando estética e cibercultura.
