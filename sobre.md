@@ -7,6 +7,8 @@ description: "Marcos Ramon | Pesquisador, escritor, podcaster"
 
 ## O autor
 
+<img src="/assets/images/tolis2023.jpg" width="320" height="320">
+
 Meu nome é Marcos Ramon. Nasci em São Luís, mas moro em Brasília desde 2010. Sou pesquisador, professor e podcaster, e pesquiso cibercultura, estética e cultura digital. Sou professor de Filosofia no Instituto Federal de Brasília, atuando também no Mestrado em Educação Profissional e Tecnológica.
 {: .message }
 
