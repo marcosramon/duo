@@ -9,7 +9,7 @@ tags:
 - Reflexão
 layout: post
 excerpt: Não importa o quanto eu ache que eu mudei.
-image: ''
+image: pensar1.jpg
 published: true
 ---
 
@@ -18,3 +18,5 @@ Não importa o quanto eu ache que mudei. No final, continuo sempre pensando basi
 A gente aprende muito pouco a ser diferente. Agir contra si próprio parece contraproducente, porque a vida nos ensina (de alguma forma que não sei explicar) que para viver é preciso regularidade e previsibilidade.
 
 Ninguém coonsegue suportar ser outro alguém e, por isso, lá no fundo, gostaríamos apenas de ser quem já somos. Aprendendo coisas novas, tendo novas experiências, mas ainda assim... sendo os mesmos.
+
+<img src="/assets/images/pensar1.jpg">
