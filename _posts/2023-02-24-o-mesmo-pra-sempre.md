@@ -9,7 +9,7 @@ tags:
 - Reflexão
 layout: post
 excerpt: Não importa o quanto eu ache que eu mudei.
-image: pensar1.jpg
+image:
 published: true
 ---
 
