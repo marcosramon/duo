@@ -9,6 +9,7 @@ tags:
 layout: post
 excerpt: Não importa o quanto eu ache que eu mudei.
 image: ''
+published: true
 ---
 
 Não importa o quanto eu ache que mudei. No final, continuo sempre pensando basicamente as mesmas coisas, defendendo as mesmas ideias, querendo corroborar com os mesmos valores e fingindo que sofri grandes mudanças ao longo da vida.
