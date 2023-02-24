@@ -1,12 +1,16 @@
 ---
-layout: post
 title: O que significa o futuro?
-description: "Até o séc. XIX falar em futuro talvez fosse falar em algo muito vago. Afinal, era bem provável que os pais e avós tivessem conhecido uma vida bem semelhante àquela que seus filhos e netos agora tinham."
-published: true
-tags: [cotidiano, desenho]
+date: 2014-05-26 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- desenho
+layout: post
+description: Até o séc. XIX falar em futuro talvez fosse falar em algo muito vago.
+  Afinal, era bem provável que os pais e avós tivessem conhecido uma vida bem semelhante
+  àquela que seus filhos e netos agora tinham.
 image: futuro.jpg
-categories: blog
-date: 2014-05-26
 author: Marcos Ramon
 ---
 

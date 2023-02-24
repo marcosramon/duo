@@ -1,13 +1,14 @@
 ---
-title: "Gostar de arte contemporânea"
-description: "Tem que entreter?"
-date: 2019-06-02
-tags: 
-  - Arte
-  - Entretenimento
-  - Estética
+title: Gostar de arte contemporânea
+date: 2019-06-02 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Arte
+- Entretenimento
+- Estética
+description: Tem que entreter?
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Gostar-de-arte-contempornea-e47j33" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

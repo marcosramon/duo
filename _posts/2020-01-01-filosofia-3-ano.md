@@ -1,10 +1,12 @@
 ---
-layout: post
-published: false
-categories: blog
-image: mariaramos.jpeg
 title: Filosofia 3º ano
-excerpt: "Será que a filosofia pode nos ajudar a alcançar a felicidade?"
+date: 2020-01-01 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+image: mariaramos.jpeg
+excerpt: Será que a filosofia pode nos ajudar a alcançar a felicidade?
 ---
 
 - [Heading](#heading)

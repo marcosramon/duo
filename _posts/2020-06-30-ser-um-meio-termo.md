@@ -1,13 +1,16 @@
 ---
-title: "Ser um meio-termo"
-description: "No livro 'Pensamentos' Pascal contesta a ideia de que o nosso destino é buscar conhecer tudo o que existe. Afinal, 'como poderia uma parte conhecer o todo?'"
-date: 2020-06-30
+title: Ser um meio-termo
+date: 2020-06-30 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- filosofia
+- Pascal
+- conhecimento
+description: No livro 'Pensamentos' Pascal contesta a ideia de que o nosso destino
+  é buscar conhecer tudo o que existe. Afinal, 'como poderia uma parte conhecer o
+  todo?'
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - filosofia
-  - Pascal
-  - conhecimento
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Ser-um-meio-termo-eg5cel" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

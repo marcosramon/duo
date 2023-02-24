@@ -1,15 +1,14 @@
 ---
-title: "Alerta de spoilers"
-excerpt: "Quem quer saber o final da história?"
-date: 2018-08-25
-published: true
-og_image: assets/images/alerta.png
-tags: 
-  - cotidiano
-  - literatura
-  - comportamento
+title: Alerta de spoilers
+date: 2018-08-25 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- cotidiano
+- literatura
+- comportamento
+excerpt: Quem quer saber o final da história?
+og_image: assets/images/alerta.png
 ---
 
 A ideia de ser surpreendido com o final de uma história que você ainda está lendo ou com a descrição de uma cena incrível de um filme que você ainda não assistiu não é nova. Isso sempre aconteceu de alguma forma, nos clubes de livro, nas filas de cinema, em críticas mal escritas das revistas. Contudo, nada se compara com o poder do *spoiler* na internet. Falar para os outros o que eles ainda não sabem (e não gostariam de saber até o fim) é algo tentador e, às vezes, até natural para quem cresce em um ambiente em que as formas de entretenimento estão tão misturadas.

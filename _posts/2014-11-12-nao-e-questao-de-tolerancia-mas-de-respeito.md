@@ -1,10 +1,12 @@
 ---
-layout: post
-date: 2014-11-12
 title: Não é questão de tolerância, mas de respeito.
+date: 2014-11-12 00:00:00 Z
+tags:
+- cotidiano
+- sociedade
+- cultura
+layout: post
 description: Você quer ser tolerado?
-published: true
-tags: [cotidiano, sociedade, cultura]
 header-img: "/img/abstrato3.jpg"
 author: Marcos Ramon
 ---

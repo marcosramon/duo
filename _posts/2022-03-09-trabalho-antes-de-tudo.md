@@ -1,10 +1,17 @@
 ---
 title: Trabalho, antes de tudo
+date: 2022-03-09 00:00:00 Z
+categories:
+- blog
+tags:
+- trabalho
+- literatura
+- comportamento
+- sociedade
 layout: post
-image:
-categories: blog
-excerpt: Trabalhamos porque o trabalho nos define. Mas quem consegue ser realmente apaixonado por aquilo que faz?
-tags: [trabalho, literatura, comportamento, sociedade]
+image: 
+excerpt: Trabalhamos porque o trabalho nos define. Mas quem consegue ser realmente
+  apaixonado por aquilo que faz?
 ---
 
 O trabalho é, na maneira como o concebeu Marx, algo que nos define enquanto seres humanos. O sentido ontológico do trabalho está no fato de que, para viver, precisamos criar, produzir, gerar algo para além do que a própria natureza oferece. Assim, o que caracteriza a essência humana é a dimensão do trabalho, porque não poderíamos viver de outra forma. Se o trabalho, hoje vinculado ao capitalismo, gera um deslocamento do sentido da vida, esse é outro problema. Richard Sennett, por exemplo, discute isso em [O artífice](https://amzn.to/35FepOb), lembrando que a ação que envolve os trabalhos manuais implica necessariamente em um tipo de *engajamento* com aquilo que é humano. Assim, mesmo sendo verdade que o trabalho, especialmente o manual, foi desvalorizado em diversos momentos da história, ele não deixa de "espelhar essas questões mais amplas do passado e do presente" (O artífice, p.29). É pelo trabalho que nos reconhecemos como parte da sociedade e é através dele que nos percebemos nas ações dos outros.

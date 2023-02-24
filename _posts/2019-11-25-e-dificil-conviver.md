@@ -1,15 +1,14 @@
 ---
-title: "É difícil conviver"
-excerpt: "Alguém gosta de admitir sua própria misantropia?"
-date: 2019-11-25
-published: true
-header:
-tags: 
-  - cotidiano
-  - comportamento
-  - sociedade
+title: É difícil conviver
+date: 2019-11-25 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- cotidiano
+- comportamento
+- sociedade
+excerpt: Alguém gosta de admitir sua própria misantropia?
+header: 
 ---
 
 Misantropia é uma dessas palavras estranhas que inevitavelmente a gente fica em dúvida sobre o que significa. Se procurar no Google, o resultado mostrado pelo dicionário será “ódio pela humanidade”, que é uma descrição literal da etimologia da palavra. Claro que se levarmos o termo nesse sentido pouquíssimas pessoas vão se identificar com ele. No entanto, uma definição mais palatável, e que abarca o sentimento de muita gente, é “falta de sociabilidade”. Neste último sentido, eu me sinto um misantropo, ainda que sem muito orgulho.

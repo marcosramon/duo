@@ -1,14 +1,13 @@
 ---
-title: "Viver de arte"
-excerpt: "Sobre Andy Warhol, arte e dinheiro"
-date: 2018-09-13
-published: true
-og_image: /assets/images/viverdearte.jpeg
-tags: 
-  - arte
-  - cultura
+title: Viver de arte
+date: 2018-09-13 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- arte
+- cultura
+excerpt: Sobre Andy Warhol, arte e dinheiro
+og_image: "/assets/images/viverdearte.jpeg"
 ---
 
 [Andy Warhol](https://g.co/kgs/BMC649){:target="_blank"} produzia imagens que remetiam ao mundo do consumo e ganhava dinheiro com essas obras. Pintava dinheiro em uma tela e depois trocava essas pinturas por dinheiro de verdade. E fazia ainda mais pinturas.

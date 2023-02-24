@@ -1,16 +1,15 @@
 ---
-title: "O desafio de ensinar"
-excerpt: "O ambiente da docência nunca foi tão desafiador."
-date: 2019-10-10
-published: true
-header:
-tags: 
-  - filosofia
-  - conhecimento
-  - ensino
-  - educação
+title: O desafio de ensinar
+date: 2019-10-10 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- filosofia
+- conhecimento
+- ensino
+- educação
+excerpt: O ambiente da docência nunca foi tão desafiador.
+header: 
 ---
 
 Por algum tempo se supôs que o valor intrínseco às instituições de ensino tinha relação com o fato de que, nesse espaço, se poderia ter acesso a algo difícil de se alcançar do lado de fora. Professores eram pessoas eruditas que detinham experiência e conhecimento suficientes para apresentar aos estudantes informações e discutir a composição do conhecimento acumulado historicamente. Tudo isso ainda é verdade, com a diferença de que muitos estudantes deixaram de acreditar nessas instituições e em seus professores.

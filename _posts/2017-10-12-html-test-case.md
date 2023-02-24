@@ -1,10 +1,7 @@
 ---
-title: "HTML Test Case"
-# https://github.com/cbracco/html5-test-page/
+title: HTML Test Case
+date: 2017-10-12 00:00:00 Z
 published: false
-
-# To set og:image:
-# image: ...
 ---
 
 <section id="text">

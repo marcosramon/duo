@@ -1,11 +1,15 @@
 ---
-layout: post
 title: O desapego
-description: "Ontem separei alguns livros para doar, livros que estavam sem uso, estragando em uma estante perto da cozinha."
-published: true
-tags: [cotidiano, leitura, livros]
-date: 2015-11-03
-categories: blog
+date: 2015-11-03 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- leitura
+- livros
+layout: post
+description: Ontem separei alguns livros para doar, livros que estavam sem uso, estragando
+  em uma estante perto da cozinha.
 image: books.jpg
 author: Marcos Ramon
 ---

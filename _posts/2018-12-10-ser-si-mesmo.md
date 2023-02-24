@@ -1,15 +1,19 @@
 ---
-title: "Ser si mesmo"
-excerpt: "Quando eu estava no Mestrado (UFMA, Cultura e Sociedade, 2010/2011) eu fiz uma disciplina chamada “Corpo e Sociedade” e nela nós lemos dois textos do sociólogo francês David Le Breton: “Adeus ao corpo” e “Sociologia do corpo”. Neles Le Breton discute a condição moderna do corpo e como nos relacionamos com os outros e com nós mesmos..."
-last_modified_at: 2018-12-10T10:27:01-05:00
-date: 2018-12-10
-og_image: assets/images/Cinta+Vidal.jpg
+title: Ser si mesmo
+date: 2018-12-10 00:00:00 Z
 categories:
-  - blog
-tags: 
-  - corpo
-  - filosofia
-  - pesquisa
+- blog
+tags:
+- corpo
+- filosofia
+- pesquisa
+excerpt: 'Quando eu estava no Mestrado (UFMA, Cultura e Sociedade, 2010/2011) eu fiz
+  uma disciplina chamada “Corpo e Sociedade” e nela nós lemos dois textos do sociólogo
+  francês David Le Breton: “Adeus ao corpo” e “Sociologia do corpo”. Neles Le Breton
+  discute a condição moderna do corpo e como nos relacionamos com os outros e com
+  nós mesmos...'
+last_modified_at: 2018-12-10 15:27:01 Z
+og_image: assets/images/Cinta+Vidal.jpg
 ---
 
 Quando eu estava no Mestrado (UFMA, Cultura e Sociedade, 2010/2011) eu fiz uma disciplina chamada “Corpo e Sociedade” e nela nós lemos dois textos do sociólogo francês David Le Breton: “[Adeus ao corpo](https://amzn.to/2SDzJXQ)” e “[Sociologia do corpo](https://amzn.to/2QIonEY)”. Neles Le Breton discute a condição moderna do corpo e como nos relacionamos com os outros e com nós mesmos, diante das exigências da atualidade, da tecnociência e dos meios de comunicação.

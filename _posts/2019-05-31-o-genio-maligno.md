@@ -1,13 +1,15 @@
 ---
-title: "O gênio maligno"
-description: "E não existir um Deus bom, mas sim um gênio maligno, que se diverte com nossa existência?"
-date: 2019-05-31
-tags: 
-  - Descartes
-  - Metafísica
-  - Reflexão
+title: O gênio maligno
+date: 2019-05-31 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Descartes
+- Metafísica
+- Reflexão
+description: E não existir um Deus bom, mas sim um gênio maligno, que se diverte com
+  nossa existência?
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/O-gnio-maligno-e474od" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

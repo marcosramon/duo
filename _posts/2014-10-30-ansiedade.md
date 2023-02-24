@@ -1,11 +1,12 @@
 ---
-layout: post
-date: 2014-10-30
 title: Ansiedade
+date: 2014-10-30 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
 description: Ansiedade... coisa terrível.
-published: true
-categories: blog
-tags: [cotidiano]
 image: https://66.media.tumblr.com/6a368aa785dfe1fa254e6efe0ec6d446/tumblr_ngsk7rtKRf1rwk5rgo1_500.gifv
 author: Marcos Ramon
 ---

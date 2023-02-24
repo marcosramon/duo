@@ -1,10 +1,15 @@
 ---
+title: Ser um ranzinza
+date: 2015-01-21 00:00:00 Z
+tags:
+- cotidiano
 layout: post
-date: 2015-01-21
-title: "Ser um ranzinza"
-description: "Dia desses li um texto sobre alguém que fez a experiência de ficar uma semana sem reclamar e me toquei que eu praticamente não faço outra coisa que não seja reclamar. E se eu sou reservado no Facebook e no Twitter o mesmo não acontece na vida e a minha esposa, Gisele, é certamente quem mais sofre com isso. Mas certamente o meu espírito ranzinza atinbge também meu filho, meus colegas de trabalho, meus alunos..."
-published: true
-tags: [cotidiano]
+description: Dia desses li um texto sobre alguém que fez a experiência de ficar uma
+  semana sem reclamar e me toquei que eu praticamente não faço outra coisa que não
+  seja reclamar. E se eu sou reservado no Facebook e no Twitter o mesmo não acontece
+  na vida e a minha esposa, Gisele, é certamente quem mais sofre com isso. Mas certamente
+  o meu espírito ranzinza atinbge também meu filho, meus colegas de trabalho, meus
+  alunos...
 image: https://dl.dropboxusercontent.com/u/49566417/blog/01_2015/2015-01-06%2012.42.31.jpg
 author: Marcos Ramon
 header-img: "/img/abstrato5.jpg"

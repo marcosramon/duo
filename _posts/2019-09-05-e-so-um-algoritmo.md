@@ -1,17 +1,17 @@
 ---
-title: "É só um algoritmo"
-excerpt: "Estamos perdendo o controle do que acontece com a gente na internet"
-date: 2019-09-05
-published: true
+title: É só um algoritmo
+date: 2019-09-05 00:00:00 Z
+categories:
+- blog
+tags:
+- internet
+- comportamento
+- tecnologia
+excerpt: Estamos perdendo o controle do que acontece com a gente na internet
 header:
   og_image: assets/images/web.png
-tags: 
-  - internet
-  - comportamento
-  - tecnologia
-categories:
-  - blog
 ---
+
 Autores como [Jaron Lanier](https://amzn.to/2Ly7FmS) e pesquisadores da tecnologia como [Richard Stallman](https://g.co/kgs/ndeqvC) são obcecados com a ideia de que não deveríamos estar nas redes sociais. Parte disso pode ser uma consequência típica do pensamento de mudança de gerações, que é o que acontece quando alguém diz: “na minha época era melhor, quando eu era adolescente o mundo era assim...” E, claro, cada um tende a acreditar que as suas experiências são mais valiosas e significativas. Assim, para pessoas que viram a internet se tornar o que é, mas que tinham uma experiência antes dela, se manter ausente é mais simples e viável. O mesmo não se pode dizer de pessoas que crescem nesse mundo e não conheceram outra realidade.
 
 No entanto, o problema é que não sabemos as consequências que serão geradas por esse tipo de interação que temos hoje. Quem argumenta contra as redes sociais e contra o que elas representam vê, principalmente, o fato de que esses sites e serviços operam com a manipulação das emoções. Somos induzidos a postar coisas sobre nós, entregar nossos dados, entrar em discussões com outras pessoas e tudo isso por quê? Porque — e é nisso que acreditamos — *queremos*, porque é a *nossa vontade*. Mas basta refletir sobre o tema para entender como essa forma de pensar é ingênua. A perspectiva liberal pressupõe a crença na individualidade intocada e na nossa capacidade livre de fazer escolhas. Mas a neurociência cada vez mais se aproxima da demonstração de que o livre-arbítrio não existe e que nossas escolhas são fisiologicamente determinadas e também psicologicamente condicionadas. É possível, por exemplo, mapear o movimento de uma pessoa antes de ela decidir que quer se movimentar, o que mostra nossa impotência diante de algum tipo de determinismo que nos afeta o tempo todo. E o que vivemos na internet é o mesmo, portanto, que já vivíamos antes: não somos livres para escolher tudo o que queremos fazer e ser. No entanto, a internet é diferente em um aspecto: ela potencializa tudo.

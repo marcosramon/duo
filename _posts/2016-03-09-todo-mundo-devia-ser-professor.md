@@ -1,16 +1,16 @@
 ---
-title: "Todo mundo devia ser professor"
-excerpt: "O melhor de ser professor é se ver confrontado com a realidade a todo instante."
-last_modified_at: 2016-03-09T10:27:01-05:00
-date: 2016-03-09
-og_image: assets/images/oska.png
-tags: 
-  - reflexão
-  - comportamento
-  - ensino
-  - educação
+title: Todo mundo devia ser professor
+date: 2016-03-09 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- reflexão
+- comportamento
+- ensino
+- educação
+excerpt: O melhor de ser professor é se ver confrontado com a realidade a todo instante.
+last_modified_at: 2016-03-09 15:27:01 Z
+og_image: assets/images/oska.png
 ---
 
 O melhor de ser professor é se ver confrontado com a realidade a todo instante.

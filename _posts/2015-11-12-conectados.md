@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Conectados
-description: "Eu tenho uma desconfiança. Mas uma desconfiança boa, não se assuste."
-published: true
-tags: [cotidiano]
-date: 2015-11-12
-categories: blog
+date: 2015-11-12 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
+description: Eu tenho uma desconfiança. Mas uma desconfiança boa, não se assuste.
 author: Marcos Ramon
 ---
 

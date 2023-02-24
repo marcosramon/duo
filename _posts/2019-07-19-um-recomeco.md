@@ -1,14 +1,17 @@
 ---
-title: "Um recomeço"
-excerpt: "É difícil até mesmo imaginar quantas vezes em nossas vidas vamos ter que lidar com a sensação de reiniciar alguma coisa. Na maior parte do tempo é possível que esse processo aconteça de maneira casual, sem reflexão, sem muito tempo gasto na tentativa de entender cada uma das etapas do que nos acontece. Mas nem sempre vai ser assim."
-date: 2019-07-19
-published: true
-og_image: assets/images/recomeco.PNG
-tags: 
-  - cotidiano
-  - comportamento
+title: Um recomeço
+date: 2019-07-19 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- cotidiano
+- comportamento
+excerpt: É difícil até mesmo imaginar quantas vezes em nossas vidas vamos ter que
+  lidar com a sensação de reiniciar alguma coisa. Na maior parte do tempo é possível
+  que esse processo aconteça de maneira casual, sem reflexão, sem muito tempo gasto
+  na tentativa de entender cada uma das etapas do que nos acontece. Mas nem sempre
+  vai ser assim.
+og_image: assets/images/recomeco.PNG
 ---
 
 É difícil até mesmo imaginar quantas vezes em nossas vidas vamos ter que lidar com a sensação de reiniciar alguma coisa. Na maior parte do tempo é possível que esse processo aconteça de maneira casual, sem reflexão, sem muito tempo gasto na tentativa de entender cada uma das etapas do que nos acontece. Mas nem sempre vai ser assim. Existem mudanças que são mais significativas, e não necessariamente no aspecto externo, mas sim no modo como pensamos e entendemos a nós mesmos diante das nossas escolhas.

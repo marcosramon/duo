@@ -1,10 +1,11 @@
 ---
 title: Treino de basquete, 1995
+date: 2022-07-29 00:00:00 Z
+categories:
+- blog
 excerpt: Quando a memória nos trai, sentimos que somos um pouco menos nós mesmos.
 layout: post
-categories: blog
 image: 40026C66-01A6-4B54-BF9E-E533C7A7D5DB.jpeg
-published: true
 ---
 
 *Essa história que conto aqui aconteceu quase assim, mas não exatamente. Mudei os nomes e os detalhes. No mais, bem que poderia ter sido.*

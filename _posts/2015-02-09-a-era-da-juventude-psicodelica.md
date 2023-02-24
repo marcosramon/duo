@@ -1,11 +1,15 @@
 ---
-layout: post
-date: 2015-02-09
-title: "A era da juventude psicodélica"
-description: "Se você acha que vai ler aqui um texto sobre a contracultura hippie da década de 1960 pode ir tirando o cavalinho da chuva. Esse texto é sobre a geração atual. Ah, e nesses jovens pode incluir crianças na frente da tevê. Pois é, os desenhos da tevê de hoje - não todos, mas muitos - são psicodelia pura."
+title: A era da juventude psicodélica
+date: 2015-02-09 00:00:00 Z
 published: false
-tags: [cotidiano]
-image: "https://dl.dropboxusercontent.com/u/49566417/blog/02_2015/The-Spongebob-Sponge-Out-Of-Water-International-Trailer-1.jpg"
+tags:
+- cotidiano
+layout: post
+description: Se você acha que vai ler aqui um texto sobre a contracultura hippie da
+  década de 1960 pode ir tirando o cavalinho da chuva. Esse texto é sobre a geração
+  atual. Ah, e nesses jovens pode incluir crianças na frente da tevê. Pois é, os desenhos
+  da tevê de hoje - não todos, mas muitos - são psicodelia pura.
+image: https://dl.dropboxusercontent.com/u/49566417/blog/02_2015/The-Spongebob-Sponge-Out-Of-Water-International-Trailer-1.jpg
 author: Marcos Ramon
 header-img: "/img/abstrato6.jpg"
 ---

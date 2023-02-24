@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: aulas
-image: pasunb1.jpg
 title: Revisão PAS UnB 1º ano
-excerpt: "Revisão com vídeos e questões sobre os textos de Platão, Epicuro e Eurípedes, indicados para o PAS 1, da UnB"
+date: 2021-06-23 00:00:00 Z
+categories:
+- aulas
+layout: post
+image: pasunb1.jpg
+excerpt: Revisão com vídeos e questões sobre os textos de Platão, Epicuro e Eurípedes,
+  indicados para o PAS 1, da UnB
 ---
 
 Olá, tudo bem? Aqui você vai encontrar três vídeos em que faço uma apresentação breve de três textos indicados para a prova do PAS/UnB, 1ª etapa, de 2020. Os textos são "Apologia de Sócrates", de Platão, "Carta a Meneceu", de Epicuro e "Ifigênia em Áulis", de Eurípedes. 

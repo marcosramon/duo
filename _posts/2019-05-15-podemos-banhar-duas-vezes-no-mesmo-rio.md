@@ -1,13 +1,14 @@
 ---
-title: "Podemos banhar duas vezes no mesmo rio?"
-description: "Sobre a constante mudança da existência."
-date: 2019-05-15
+title: Podemos banhar duas vezes no mesmo rio?
+date: 2019-05-15 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Heráclito
+- Filosofia
+- Dialética
+description: Sobre a constante mudança da existência.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Heráclito
-  - Filosofia
-  - Dialética
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Podemos-banhar-duas-vezes-no-mesmo-rio-e41r9p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

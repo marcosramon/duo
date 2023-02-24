@@ -1,13 +1,14 @@
 ---
-title: "Hobbes e a sociabilidade"
-description: "Por que vivemos em comunidade?"
-date: 2019-07-22
+title: Hobbes e a sociabilidade
+date: 2019-07-22 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Hobbes
+- Política
+- Ética
+description: Por que vivemos em comunidade?
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Hobbes
-  - Política
-  - Ética
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Hobbes-e-a-sociabilidade-e4n229" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

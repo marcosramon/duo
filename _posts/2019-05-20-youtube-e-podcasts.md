@@ -1,18 +1,19 @@
 ---
-title: "Youtube e podcasts"
-excerpt: "Pesquisa recente do Ibope mostrou que a maioria dos ouvintes utiliza o Youtube para ouvir podcasts."
-date: 2019-05-20
-collection: ficcoes
+title: Youtube e podcasts
+date: 2019-05-20 00:00:00 Z
 categories:
-  - ficcoes
-tags: 
-  - Youtube
-  - Podcasts
-  - Mídia
-image: 
-  path: /assets/images/ficcoes.jpg
+- ficcoes
+tags:
+- Youtube
+- Podcasts
+- Mídia
+excerpt: Pesquisa recente do Ibope mostrou que a maioria dos ouvintes utiliza o Youtube
+  para ouvir podcasts.
+collection: ficcoes
+image:
+  path: "/assets/images/ficcoes.jpg"
   thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+  caption: Podcast Ficções
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Youtube-e-podcasts-e43ef4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

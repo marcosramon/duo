@@ -1,12 +1,13 @@
 ---
-title: "Dança e filosofia"
-description: "Sobre a reflexão filosófica a partir da dança (ou a ausência dela)."
-date: 2020-06-11
+title: Dança e filosofia
+date: 2020-06-11 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- filosofia
+- dança
+description: Sobre a reflexão filosófica a partir da dança (ou a ausência dela).
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - filosofia
-  - dança
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Dana-e-filosofia-efa5gb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

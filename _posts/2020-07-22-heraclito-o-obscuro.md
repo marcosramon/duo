@@ -1,13 +1,15 @@
 ---
-title: "Heráclito, O Obscuro"
-description: "Já falei sobre Heráclito antes aqui no podcast, e é bem provável que eu esteja me repetindo."
-date: 2020-07-22
+title: Heráclito, O Obscuro
+date: 2020-07-22 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- filosofia
+- Heráclito
+- conhecimento
+description: Já falei sobre Heráclito antes aqui no podcast, e é bem provável que
+  eu esteja me repetindo.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - filosofia
-  - Heráclito
-  - conhecimento
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Herclito--O-Obscuro-eh2gko" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: blog
-image: Tsinganos.jpeg
 title: A felicidade pelo caminho
-excerpt: "Aristóteles escreveu que toda ação humana tem com fim a felicidade. Não interessa o que a gente faça, o nosso objetivo final é simplesmente ser feliz."
+date: 2020-09-12 00:00:00 Z
+categories:
+- blog
+layout: post
+image: Tsinganos.jpeg
+excerpt: Aristóteles escreveu que toda ação humana tem com fim a felicidade. Não interessa
+  o que a gente faça, o nosso objetivo final é simplesmente ser feliz.
 ---
 
 Aristóteles escreveu que toda ação humana tem com fim a felicidade. Não interessa o que a gente faça, o nosso objetivo final é simplesmente ser feliz. Na maior parte do tempo eu quero acreditar nisso. Primeiro porque explica o nosso egoísmo latente (“quero tudo pra mim, pra minha satisfação!”). Depois, porque mostra que o erro está na falta de planejamento e não no que queremos alcançar. Buscamos algo bom, mas tentamos chegar lá por um caminho ruim. No final, é como se as más ações (a maioria delas, pelo menos) não se tratassem de maldade inata, mas de escolhas mal feitas.

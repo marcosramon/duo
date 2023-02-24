@@ -1,12 +1,16 @@
 ---
-layout: post
 title: O destino inglório dos livros gigantes
-description: "Eu tinha entrado na Universidade fazia pouco tempo. Era 1999 e eu gostava de bibliotecas. Um dia caminhando pelo corredor de literatura da biblioteca da Universidade vi um livro gigante - e livros gigantes me intrigavam, naquela época."
-published: true
+date: 2014-07-14 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- literatura
+layout: post
+description: Eu tinha entrado na Universidade fazia pouco tempo. Era 1999 e eu gostava
+  de bibliotecas. Um dia caminhando pelo corredor de literatura da biblioteca da Universidade
+  vi um livro gigante - e livros gigantes me intrigavam, naquela época.
 image: joyce-ulysses.jpg
-date: 2014-07-14
-categories: blog
-tags: [cotidiano, literatura]
 author: Marcos Ramon
 ---
 

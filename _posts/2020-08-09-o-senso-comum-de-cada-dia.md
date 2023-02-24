@@ -1,10 +1,11 @@
 ---
-layout: post
-published: true
-categories: blog
-image: Sidney-Harris.jpg
 title: O senso comum de cada dia
-excerpt: "Negar a ciência não é o mesmo que usar o senso comum"
+date: 2020-08-09 00:00:00 Z
+categories:
+- blog
+layout: post
+image: Sidney-Harris.jpg
+excerpt: Negar a ciência não é o mesmo que usar o senso comum
 ---
 
 Por muito tempo, foi natural considerarmos o conhecimento científico como um símbolo de algo que deveríamos perseguir. Contudo, em pleno século XXI, entramos em um processo de descrença da ciência e valorização exacerbada do senso comum. Isso é um perigo, pelos motivos óbvios. Quando desconfiamos exageradamente da ciência (porque, sim, precisamos desconfiar dela, como de tudo o mais) deixamos de entender determinados aspectos da realidade e de nos preparar para o que está por vir. Por exemplo: existem pessoas que permitem que seus filhos peguem doenças antes controladas por desacreditarem de vacinas. Outras aceitam argumentos questionáveis contra alopatia e não buscam tratamento contra o câncer. Existem até aqueles que [não acreditam mais em eclipses](https://theconversation.com/eclipse-of-reason-why-do-people-disbelieve-scientists-81068).

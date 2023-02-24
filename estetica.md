@@ -1,15 +1,14 @@
 ---
+title: Introdução à Estética e História da Arte
 tags: []
 layout: page
 categories: ''
 excerpt: ''
-title: Introdução à Estética e História da Arte
 image: "/uploads/da633fae-2f70-46cb-8b16-a73c626c1fd8.jpeg"
-date: 
 description: Acesso a documentos básicos da disciplina Introdução à Estética e História
   da Arte
-
 ---
+
 ### Licenciatura em Dança / 2022-2
 
 * [Plano de Ensino](https://docs.google.com/document/d/1QSfVGQdYAIF7qSQHYhWnjC79MXzUumkJyPEFm65uhd4/edit "Plano de Ensino"){:target="_blank"}

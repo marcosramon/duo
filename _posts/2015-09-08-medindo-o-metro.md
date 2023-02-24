@@ -1,13 +1,13 @@
 ---
-title: "Medindo o metrô"
-excerpt: "Eu gosto de especular sobre coisas que não posso compreender."
-date: 2015-09-08
-published: true
-tags: 
-  - cotidiano
+title: Medindo o metrô
+date: 2015-09-08 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- cotidiano
+excerpt: Eu gosto de especular sobre coisas que não posso compreender.
 ---
+
 Eu gosto de especular sobre coisas que não posso compreender.
 
 Ontem, voltando pra casa, vi um cara entrando no metrô com uma trena. Bastou a porta fechar e ele começou a medir a porta do vagão. O metrô estava cheio e ele estava bem do meu lado. Talvez pela proximidade daquele fato inusitado, fiquei intrigado com aquilo. O cara mediu uma extensão da porta, depois outra, de cima pra baixo, de um lado pro outro. Quando o metrô parava em alguma estação e abria a porta ele saia um pouquinho e media a parte interna da porta (a grossura do metrô, não se dá pra entender assim). Vendo aquilo eu fiquei especulando sobre quem era aquele cara e porque ele estava fazendo aquilo.

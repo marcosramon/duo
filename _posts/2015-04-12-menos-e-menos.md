@@ -1,11 +1,17 @@
 ---
-layout: post
-date: 2015-04-12
-title: "Menos é menos"
-description: "Nesses dias, pensando sobre o blog, achei que era melhor adotar algo que já vinha pensando em fazer: o arcano5 agora não é mais um blog, mas uma newsletter. Mas o que isso significa exatamente? Significa que não vou mais postar textos, imagens, músicas ou podcasts no arcano5, mas continuar fazendo isso em outros lugares. E entra o papel da newsletter: tudo que eu fizer pela web eu compartilho com vocês aqui que assinaram minhas postagens por email"
+title: Menos é menos
+date: 2015-04-12 00:00:00 Z
 published: false
-tags: [cotidiano]
-image: "https://dl.dropboxusercontent.com/u/49566417/blog/04_2015/selfie.jpg"
+tags:
+- cotidiano
+layout: post
+description: 'Nesses dias, pensando sobre o blog, achei que era melhor adotar algo
+  que já vinha pensando em fazer: o arcano5 agora não é mais um blog, mas uma newsletter.
+  Mas o que isso significa exatamente? Significa que não vou mais postar textos, imagens,
+  músicas ou podcasts no arcano5, mas continuar fazendo isso em outros lugares. E
+  entra o papel da newsletter: tudo que eu fizer pela web eu compartilho com vocês
+  aqui que assinaram minhas postagens por email'
+image: https://dl.dropboxusercontent.com/u/49566417/blog/04_2015/selfie.jpg
 author: Marcos Ramon
 header-img: "/img/sky.jpg"
 ---

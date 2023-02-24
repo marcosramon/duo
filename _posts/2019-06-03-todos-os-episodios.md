@@ -1,12 +1,13 @@
 ---
-title: "Todos os episódios"
-description: "Muita coisa pra ouvir."
+title: Todos os episódios
+date: 2019-06-03 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Podcast
+- Cotidiano
+description: Muita coisa pra ouvir.
 image: ficcoes.jpg
-categories: ficcoes
-date: 2019-06-03
-tags: 
-  - Podcast
-  - Cotidiano
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Todos-os-episdios-e47vsu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

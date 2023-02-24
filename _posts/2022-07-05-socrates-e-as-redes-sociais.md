@@ -1,10 +1,19 @@
 ---
 title: Sócrates e as redes sociais
+date: 2022-07-05 00:00:00 Z
+categories:
+- blog
+tags:
+- Sócrates
+- Filosofia
+- Redes sociais
+- comportamento
+- sociedade
 layout: post
-image:
-categories: blog
-excerpt: Todo mundo é esperto e sabe tanta coisa na internet, que a sensação é de encontrar um Sócrates em cada post do Twitter ou comentário no YouTube. Será que isso é bom?
-tags: [Sócrates, Filosofia, Redes sociais, comportamento, sociedade]
+image: 
+excerpt: Todo mundo é esperto e sabe tanta coisa na internet, que a sensação é de
+  encontrar um Sócrates em cada post do Twitter ou comentário no YouTube. Será que
+  isso é bom?
 ---
 
 Esses dias eu li um [artigo que fala sobre a relação entre a história de Sócrates e o nosso comportamento nas redes sociais](https://qz.com/1599699/socrates-shows-why-moral-posturing-on-social-media-is-so-annoying/). Parece meio estranho, mas a ideia é que ele tinha uma postura em relação à moral semelhante ao que muita gente quer ter hoje em dia.

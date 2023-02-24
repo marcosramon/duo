@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Eu insisto
-description: "insisto porque não sei ser diferente disso que eu sou. Isso que eu vejo no espelho, isso que caminha, come e pensa. Isso que agora, sentado e cansado, escreve pra ninguém."
-date: 2014-09-28
-published: true
-tags: [cotidiano]
+date: 2014-09-28 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
+description: insisto porque não sei ser diferente disso que eu sou. Isso que eu vejo
+  no espelho, isso que caminha, come e pensa. Isso que agora, sentado e cansado, escreve
+  pra ninguém.
 image: rajdhunna.jpg
-categories: blog
 author: Marcos Ramon
 ---
 

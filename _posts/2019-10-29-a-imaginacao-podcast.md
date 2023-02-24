@@ -1,18 +1,21 @@
 ---
-title: "A imaginação"
-description: "Somos melhor definidos pela nossa capacidade de raciocinar ou de imaginar?"
+title: A imaginação
+date: 2019-10-29 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Filosofia
+- Reflexão
+- Conhecimento
+description: Somos melhor definidos pela nossa capacidade de raciocinar ou de imaginar?
 sidebar:
-  - title: "Ficções"
-    text: "Um podcast sobre narrativas filosóficas"
-  - title: "Escute"
-    text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA), [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
-date: 2019-10-29
+- title: Ficções
+  text: Um podcast sobre narrativas filosóficas
+- title: Escute
+  text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA),
+    [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz)
+    ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Filosofia
-  - Reflexão
-  - Conhecimento
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/A-imaginao-e8ckcj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

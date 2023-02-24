@@ -1,13 +1,14 @@
 ---
-title: "Todo mundo usa WhatsApp"
-description: "Por que você não usa?"
-date: 2019-05-05
+title: Todo mundo usa WhatsApp
+date: 2019-05-05 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Tecnologia
+- WhatsApp
+- Comunicação
+description: Por que você não usa?
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Tecnologia
-  - WhatsApp
-  - Comunicação
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Todo-mundo-usa-WhatsApp-e3ubnh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

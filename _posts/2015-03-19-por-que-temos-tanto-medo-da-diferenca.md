@@ -1,11 +1,14 @@
 ---
+title: Por que temos tanto medo da diferença?
+date: 2015-03-19 00:00:00 Z
+tags:
+- cotidiano
 layout: post
-date: 2015-03-19
-title: "Por que temos tanto medo da diferença?"
-description: "Certamente você já percebeu isso: todos os dias mais e mais pessoas se tornam mais raivosas, irritadas e se incomodam facilmente com o fato de existirem pessoas que pensam de outro jeito, se vestem de outro jeito ou tem preferências sexuais e religiosas diferentes das que todo mundo deveria ter"
-published: true
-tags: [cotidiano]
-image: "https://dl.dropboxusercontent.com/u/49566417/blog/03_2015/Masato%20Sudo.jpg"
+description: 'Certamente você já percebeu isso: todos os dias mais e mais pessoas
+  se tornam mais raivosas, irritadas e se incomodam facilmente com o fato de existirem
+  pessoas que pensam de outro jeito, se vestem de outro jeito ou tem preferências
+  sexuais e religiosas diferentes das que todo mundo deveria ter'
+image: https://dl.dropboxusercontent.com/u/49566417/blog/03_2015/Masato%20Sudo.jpg
 author: Marcos Ramon
 header-img: "/img/sky2.jpg"
 ---

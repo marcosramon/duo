@@ -1,13 +1,14 @@
 ---
-title: "Andy Warhol, dinheiro e arte"
-description: "Existe uma contradição entre arte e consumo?"
-date: 2019-05-19
-tags: 
-  - Arte
-  - Consumo
-  - Andy Warhol
+title: Andy Warhol, dinheiro e arte
+date: 2019-05-19 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Arte
+- Consumo
+- Andy Warhol
+description: Existe uma contradição entre arte e consumo?
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Andy-Warhol--dinheiro-e-arte-e4320m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

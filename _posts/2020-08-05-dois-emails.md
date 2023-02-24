@@ -1,12 +1,13 @@
 ---
-title: "Dois emails"
-description: "Sobre emails que recebi recentemente."
-date: 2020-08-05
+title: Dois emails
+date: 2020-08-05 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- filosofia
+- cotidiano
+description: Sobre emails que recebi recentemente.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - filosofia
-  - cotidiano
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Dois-emails-ehntph" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

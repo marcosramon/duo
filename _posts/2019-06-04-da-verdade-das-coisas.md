@@ -1,15 +1,14 @@
 ---
-title: "Da verdade das coisas"
-excerpt: "Quando impomos aos outros nosso jeito de ver o mundo."
-date: 2019-06-04
-published: true
-og_image: /assets/images/gato.jpg
-tags: 
-  - verdade
-  - cotidiano
-  - reflexão
+title: Da verdade das coisas
+date: 2019-06-04 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- verdade
+- cotidiano
+- reflexão
+excerpt: Quando impomos aos outros nosso jeito de ver o mundo.
+og_image: "/assets/images/gato.jpg"
 ---
 
 Ontem, enquanto estava no metrô voltando pra casa, comecei a fazer um exercício que já tinha feito algumas vezes (talvez inspirado em um filme, não tenho certeza): imaginar quem eram as pessoas que estavam perto de mim, o que faziam, suas profissões, *hobbies* e qualquer outra coisa que fosse importante pra elas.

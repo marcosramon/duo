@@ -1,14 +1,17 @@
 ---
+title: Reimaginando o tempo
+date: 2022-12-22 00:00:00 Z
+categories:
+- blog
 tags:
 - Tempo
 - Vida
 layout: post
-categories: blog
-excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos o turismo.
-title: Reimaginando o tempo
-image: ""
-date: 2022-12-22
+excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos
+  o turismo.
+image: ''
 ---
+
 A força do tempo sobre a gente faz com que, muitas vezes, esqueçamos que as coisas se dão em um processo cumulativo. Nada acontece de um momento para outro, mas cada coisa segue um ritmo de transformações que se finaliza em um ponto que consideramos como o <i>final</i>.
 
 Quando nascemos começamos a morrer, perdendo aos poucos a vitalidade, o senso de descoberta, a ingenuidade do aprender. Viver é encaminhar-se para o inesperado e para a possibilidade de nos perdermos em meio a tudo.

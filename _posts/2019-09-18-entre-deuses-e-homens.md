@@ -1,12 +1,13 @@
 ---
-title: "Entre deuses e homens"
-description: "Sobre a interpretação da filosofia de Nietzsche por Luc Ferry."
-date: 2019-09-18
+title: Entre deuses e homens
+date: 2019-09-18 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Filosofia
+- Conhecimento
+description: Sobre a interpretação da filosofia de Nietzsche por Luc Ferry.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Filosofia
-  - Conhecimento
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Entre-deuses-e-homens-e5f3fj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

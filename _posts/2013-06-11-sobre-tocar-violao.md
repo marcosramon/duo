@@ -1,12 +1,11 @@
 ---
-title: "Sobre tocar violão"
-description: "Recentemente compramos um violão"
-date: 2013-06-11
-published: true
-tags: 
-  - cotidiano
+title: Sobre tocar violão
+date: 2013-06-11 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- cotidiano
+description: Recentemente compramos um violão
 ---
 
 Recentemente compramos um violão. Gisele está ficando cada vez melhor e Arthur está desprezando cada vez mais nossa intenção de transformá-lo em músico[^1].

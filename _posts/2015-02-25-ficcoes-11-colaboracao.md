@@ -1,12 +1,18 @@
 ---
-layout: post
-date: 2015-02-25
-title: "Colaboração"
-description: "Vivemos em sociedade porque isso é parte de nossa natureza. No entanto, o que justifica o fato de que tenhamos o ímpeto de colaborar com outros mesmo quando não existe nenhum ganho objetivo em vista? A colaboração nos mostra que a experiência da coletividade é possível e viável, mas não por simples altruísmo."
+title: Colaboração
+date: 2015-02-25 00:00:00 Z
 published: false
-tags: [podcast, filosofia]
+categories:
+- ficcoes
+tags:
+- podcast
+- filosofia
+layout: post
+description: Vivemos em sociedade porque isso é parte de nossa natureza. No entanto,
+  o que justifica o fato de que tenhamos o ímpeto de colaborar com outros mesmo quando
+  não existe nenhum ganho objetivo em vista? A colaboração nos mostra que a experiência
+  da coletividade é possível e viável, mas não por simples altruísmo.
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 Vivemos em sociedade porque isso é parte de nossa natureza. No entanto, o que justifica o fato de que tenhamos o ímpeto de colaborar com outros mesmo quando não existe nenhum ganho objetivo em vista? A colaboração nos mostra que a experiência da coletividade é possível e viável, mas não por simples altruísmo.

@@ -1,13 +1,14 @@
 ---
-title: "O Romantismo e a modernidade"
-description: "Sobre o Romantismo filosófico e a atualidade de alguns de seus aspectos."
+title: O Romantismo e a modernidade
+date: 2019-10-09 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Filosofia
+- Conhecimento
+- Estética
+description: Sobre o Romantismo filosófico e a atualidade de alguns de seus aspectos.
 image: ficcoes.jpg
-categories: ficcoes
-date: 2019-10-09
-tags: 
-  - Filosofia
-  - Conhecimento
-  - Estética
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/O-Romantismo-e-a-modernidade-e6esuk" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

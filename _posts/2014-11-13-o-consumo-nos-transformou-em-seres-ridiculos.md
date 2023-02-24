@@ -1,12 +1,14 @@
 ---
-layout: post
-date: 2014-11-13
 title: O consumo nos transformou em seres ridículos
+date: 2014-11-13 00:00:00 Z
+categories:
+- blog
+tags:
+- tecnologia
+- cultura
+layout: post
 description: Estamos nos entupindo de objetos e coisas sem sentido
-published: true
-tags: [tecnologia, cultura]
 image: fastshop1.jpg
-categories: blog
 author: Marcos Ramon
 ---
 

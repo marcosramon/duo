@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Eu escuto playlists... o tempo todo!
-published: true
-description: "Novos jeitos de continuar ouvindo música"
-date: 2014-05-31
-tags: [som, indico]
+date: 2014-05-31 00:00:00 Z
+categories:
+- blog
+tags:
+- som
+- indico
+layout: post
+description: Novos jeitos de continuar ouvindo música
 image: sea.jpg
-categories: blog
 author: Marcos Ramon
 ---
 

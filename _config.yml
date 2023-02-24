@@ -1,70 +1,43 @@
-# ----------------------------------------------------------------------------
-# Customize Options: Must Change
-#
-# Title:
+---
 title: Marcos Ramon
-
-# Where the page will be deployed.
-# If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://marcosramon.net"
-
-# If you're deployging to a subdirectory (https://foo.com/bar/)
-# Then write "/bar/". Otherwise, remove this line.
-baseurl:
-
-# Twitter IDs
-twitter:
-  username: "mrtollens"
-author:
-  twitter: "mrtollens"
-
-# Set default og:image
-# From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: "assets/images/gephi2.png"
-
-# ----------------------------------------------------------------------------
-# Customize Options: Optional
-#
-# See: https://material.io/guidelines/style/color.html
-# Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "amber-300"
-
-# How article URLs are structured.
-# See: https://jekyllrb.com/docs/permalinks/
+- scope:
+    path: ''
+  values:
+    image: assets/images/gephi2.png
+url: https://marcosramon.net
+baseurl: 
+twitter:
+  username: mrtollens
+author:
+  twitter: mrtollens
+brand_color: amber-300
 permalink: posts/:title/
-
-# "UA-NNNNNNNN-N"
-google_analytics: ""
-
-# Language. For example, if you write in Japanese, use "ja"
-lang: "pt"
-
-# How many posts are visible on the home page without clicking "View More"
+google_analytics: ''
+lang: pt
 num_posts_visible_initially: 5
-
-# Date format: See http://strftime.net/
 date_format: "%b %-d, %Y"
-# ----------------------------------------------------------------------------
-
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - mix-manifest.json
-  - webpack.mix.js
-  - yarn.lock
-  - package.json
-  - hot
-  - LICENSE.txt
-
+- Gemfile
+- Gemfile.lock
+- node_modules
+- mix-manifest.json
+- webpack.mix.js
+- yarn.lock
+- package.json
+- hot
+- LICENSE.txt
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-readme-index
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
+- jemoji
+- jekyll-readme-index

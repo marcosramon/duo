@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Você lembra por onde andou? O Google lembra.
-published: true
-description: "Você se deixa vigiar mais do que devia?"
-date: 2014-05-23
-tags: [tecnologia, internet]
+date: 2014-05-23 00:00:00 Z
+categories:
+- blog
+tags:
+- tecnologia
+- internet
+layout: post
+description: Você se deixa vigiar mais do que devia?
 image: googlehistory.png
-categories: blog
 author: Marcos Ramon
 ---
 

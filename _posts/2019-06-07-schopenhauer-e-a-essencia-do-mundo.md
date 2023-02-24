@@ -1,21 +1,24 @@
 ---
-title: "Schopenhauer e a essência do mundo"
-description: "O corpo é também um meio de conhecimento."
+title: Schopenhauer e a essência do mundo
+date: 2019-06-07 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Schopenhauer
+- Conhecimento
+- Metafísica
+description: O corpo é também um meio de conhecimento.
 header:
-  image: /assets/images/ficcoes.jpg
+  image: "/assets/images/ficcoes.jpg"
   teaser: assets/images/ficcoes400x200.jpg
 sidebar:
-  - title: "Ficções"
-    text: "Um podcast sobre narrativas filosóficas"
-  - title: "Escute"
-    text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA), [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
-date: 2019-06-07
+- title: Ficções
+  text: Um podcast sobre narrativas filosóficas
+- title: Escute
+  text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA),
+    [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz)
+    ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Schopenhauer
-  - Conhecimento
-  - Metafísica
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Schopenhauer-e-a-essncia-do-mundo-e49c2r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

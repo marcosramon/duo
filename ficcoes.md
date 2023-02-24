@@ -1,7 +1,7 @@
 ---
 title: Ficções
 layout: page
-description: "Narrativas filosóficas."
+description: Narrativas filosóficas.
 image: ficcoes-sp.png
 ---
 

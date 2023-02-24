@@ -1,11 +1,14 @@
 ---
-layout: post
-published: true
-categories: aulas
-image: hegel2.jpeg
 title: Hegel e o fim da arte
-excerpt: "Nesse texto apresento (de forma bem sintética) os pontos centrais da reflexão de Hegel sobre a estética"
+date: 2021-07-18 00:00:00 Z
+categories:
+- aulas
+layout: post
+image: hegel2.jpeg
+excerpt: Nesse texto apresento (de forma bem sintética) os pontos centrais da reflexão
+  de Hegel sobre a estética
 ---
+
 Georg Wilhelm Friedrich Hegel (1770 - 1831) foi um dos autores mais influentes da estética, especialmente por abordar o tema quando este ainda não era um consenso dentro da filosofia.
 
 <img src="/assets/images/hegel1.jpeg">

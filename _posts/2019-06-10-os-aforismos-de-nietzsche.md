@@ -1,12 +1,13 @@
 ---
-title: "Os aforismos de Nietzsche"
-description: "Sobre a beleza (e o mistério) da escrita."
+title: Os aforismos de Nietzsche
+date: 2019-06-10 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Nietzsche
+- Escrita
+description: Sobre a beleza (e o mistério) da escrita.
 image: ficcoes.jpg
-categories: ficcoes
-date: 2019-06-10
-tags: 
-  - Nietzsche
-  - Escrita
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Os-aforismos-de-Nietzsche-e4a6pa" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

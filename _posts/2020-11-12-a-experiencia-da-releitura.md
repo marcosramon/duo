@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: blog
-image: holmes.JPG
 title: A experiência da releitura
-excerpt: "Voltando a ler Sherlock Holmes e descobrindo que não lembro de quase nada da primeira leitura."
+date: 2020-11-12 00:00:00 Z
+categories:
+- blog
+layout: post
+image: holmes.JPG
+excerpt: Voltando a ler Sherlock Holmes e descobrindo que não lembro de quase nada
+  da primeira leitura.
 ---
 
 [Schopenhauer](https://amzn.to/2ItrrT2) escreveu que o bom leitor não é aquele que lê muitos livros, mas sim aquele que relê. Apesar de confiar nisso, preciso admitir que raramente faço releituras. Mas esses dias, meio que por acaso, voltei a ler Sherlock Holmes e descobri que não lembro de quase nada desses livros que eu já conhecia. Estranho, né?

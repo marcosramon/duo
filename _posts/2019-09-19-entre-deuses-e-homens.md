@@ -1,17 +1,16 @@
 ---
-title: "Entre deuses e homens"
-excerpt: "Sobre a interpretação da filosofia de Nietzsche por Luc Ferry."
-date: 2019-09-19
-published: true
+title: Entre deuses e homens
+date: 2019-09-19 00:00:00 Z
+categories:
+- blog
+tags:
+- filosofia
+- arte
+- conhecimento
+- ética
+excerpt: Sobre a interpretação da filosofia de Nietzsche por Luc Ferry.
 header:
   og_image: assets/images/nietzsche.jpg
-tags: 
-  - filosofia
-  - arte
-  - conhecimento
-  - ética
-categories:
-  - blog
 ---
 
 Luc Ferry argumenta que existem três tarefas que toda grande filosofia busca explorar[^1]: 1) o desenvolvimento de uma teoria; 2) uma concepção de moral; e 3) uma doutrina de salvação sem Deus. Falando sobre Nietzsche, e tentando encaixar essa forma de ver a filosofia na obra do autor alemão, Ferry se depara com a dificuldade de encontrar uma unidade teórica e metodológica em obras tão distantes quanto *Assim Falou Zaratustra*, *Humano, Demasiado Humano* e *Ecce Homo*. Ainda assim, ele acredita que em Nietzsche os três elementos aparecem com distinção suficiente para qualquer um perceber — desde que leia as obras e não os comentadores. Pode parecer estranho que ele diga isso sendo ele mesmo um comentador. Mas ele propõe também um convite à leitura do autor para além de sua interpretação. Portanto, o resumo das ideias que apresento aqui (baseadas principalmente na leitura do texto de Luc Ferry) precisam de confrontação com os textos do próprio Nietzsche, tarefa aliás necessária sempre que se lê um autor por meio de outros.

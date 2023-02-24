@@ -1,11 +1,13 @@
 ---
-layout: post
 title: O clima e a gente
-description: "Hoje o dia amanheceu bem frio. Desci pra comprar pão e a rua estava quase vazia; ninguém passeando com cachorro, duas pessoas na padaria, poucos carros passando..."
-date: 2014-06-15
-published: true
-categories: blog
-tags: [cotidiano]
+date: 2014-06-15 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
+description: Hoje o dia amanheceu bem frio. Desci pra comprar pão e a rua estava quase
+  vazia; ninguém passeando com cachorro, duas pessoas na padaria, poucos carros passando...
 author: Marcos Ramon
 ---
 

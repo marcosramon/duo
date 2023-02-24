@@ -1,14 +1,14 @@
 ---
-title: "Quem pode mudar o mundo?"
-excerpt: "Nós inventamos os problemas e depois fingimos para nós mesmos que esses empecilhos são uma condição inerente à vida"
-date: 2019-06-11
-published: true
-og_image: /assets/images/EikoOjala.gif
-tags: 
-  - cotidiano
-  - comportamento
+title: Quem pode mudar o mundo?
+date: 2019-06-11 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- cotidiano
+- comportamento
+excerpt: Nós inventamos os problemas e depois fingimos para nós mesmos que esses empecilhos
+  são uma condição inerente à vida
+og_image: "/assets/images/EikoOjala.gif"
 ---
 
 Nada na vida é realmente definitivo. Desde as coisas mais simples até as coisas quase impossíveis, boa parte do que ocorre conosco poderia ser diferente. Mais do que isso, podemos transformar aquilo que já aconteceu, dando novos rumos para a nossa história, deixando a vida em movimento permanente.

@@ -1,10 +1,11 @@
 ---
-layout: post
-published: true
-categories: blog
-image: parade.jpg
 title: O valor do absurdo
-excerpt: "Sobre a palavra o surgimento da palavra surrealismo"
+date: 2020-07-24 00:00:00 Z
+categories:
+- blog
+layout: post
+image: parade.jpg
+excerpt: Sobre a palavra o surgimento da palavra surrealismo
 ---
 
 Lembro de uma aula em que o meu professor de literatura (ainda no Ensino Médio), falando sobre vanguardas, mencionou o surrealismo. Quando terminou a aula fui à biblioteca procurar livros sobre o assunto e aquele me pareceu desde logo o movimento de vanguarda mais interessante. Ainda hoje penso assim. Inclusive, por muito tempo, eu tive um blog chamado Arcano5. Esse título era uma variação de um dos meus livros preferidos, Arcano17, de André Breton, o fundador do movimento surrealista.

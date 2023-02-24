@@ -1,11 +1,15 @@
 ---
-layout: post
 title: Como se importar muito com o que não importa
-description: "Eu tenho uma capacidade imensa de me importar demais com coisas menores, coisas que pouco interferem no resultado final do que eu faço e nem sequer vão ser percebidas pela maioria das pessoas."
-date: 2014-06-09
-published: true
-categories: blog
-tags: [cotidiano, desenho]
+date: 2014-06-09 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- desenho
+layout: post
+description: Eu tenho uma capacidade imensa de me importar demais com coisas menores,
+  coisas que pouco interferem no resultado final do que eu faço e nem sequer vão ser
+  percebidas pela maioria das pessoas.
 image: abstrato6.jpg
 author: Marcos Ramon
 ---

@@ -1,12 +1,13 @@
 ---
-layout: post
-date: 2014-11-05
 title: E deu tudo certo
+date: 2014-11-05 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
 description: Apesar da minha desconfiança comigo mesmo
-published: true
-tags: [cotidiano]
 image: http://40.media.tumblr.com/tumblr_m0s0mhjZ8W1rnqg7ho1_1280.jpg
-categories: blog
 author: Marcos Ramon
 ---
 

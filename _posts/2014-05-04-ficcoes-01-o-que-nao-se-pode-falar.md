@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "Ficções #01 - O que não se pode falar"
-description: "Vivemos em uma cultura de excessos, em que falamos demais e sobre todas as coisas. Por que é tão difícil ficar em silêncio?"
+title: 'Ficções #01 - O que não se pode falar'
+date: 2014-05-04 00:00:00 Z
 published: false
-tags: [podcast, filosofia]
+categories:
+- ficcoes
+tags:
+- podcast
+- filosofia
+layout: post
+description: Vivemos em uma cultura de excessos, em que falamos demais e sobre todas
+  as coisas. Por que é tão difícil ficar em silêncio?
 image: ficcoes.jpg
-categories: ficcoes
-date: 2014-05-04
 author: Marcos Ramon
 ---
 

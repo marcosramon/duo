@@ -1,12 +1,16 @@
 ---
-layout: post
 title: Altruísmo
-published: true
-date: 2014-09-08
+date: 2014-09-08 00:00:00 Z
+categories:
+- blog
+tags:
+- filosofia
+- cotidiano
+layout: post
 image: sea.jpg
-categories: blog
-description: "Existem atos realmente altruístas. Eu sei que isso é verdade, assim como você. No entanto, a maioria das pessoas desconfia das outras e fica com um pé atrás quando alguém oferece ajuda sem aparentemente querer nada em troca."
-tags: [filosofia, cotidiano]
+description: Existem atos realmente altruístas. Eu sei que isso é verdade, assim como
+  você. No entanto, a maioria das pessoas desconfia das outras e fica com um pé atrás
+  quando alguém oferece ajuda sem aparentemente querer nada em troca.
 ---
 
 <p>Existem atos realmente altruístas. Eu sei que isso é verdade, assim como você. No entanto, a maioria das pessoas desconfia das outras e fica com um pé atrás quando alguém oferece ajuda sem aparentemente querer nada em troca. </p>

@@ -1,13 +1,15 @@
 ---
-title: "Epicuro e a busca pela felicidade"
-description: "Nesse episódio falo sobre as características centrais da filosofia de Epicuro, que destacava o valor do prazer na busca pela felicidade."
-date: 2020-06-16
+title: Epicuro e a busca pela felicidade
+date: 2020-06-16 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- filosofia
+- Epicuro
+- felicidade
+description: Nesse episódio falo sobre as características centrais da filosofia de
+  Epicuro, que destacava o valor do prazer na busca pela felicidade.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - filosofia
-  - Epicuro
-  - felicidade
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Epicuro-e-a-busca-pela-felicidade-efh9q2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

@@ -1,16 +1,16 @@
 ---
-title: "Todas as escolas deveriam ser escolas de arte"
-excerpt: "Por que deveríamos pensar como artistas?"
-last_modified_at: 2017-02-07T10:27:01-05:00
-date: 2017-02-07
-og_image: assets/images/escolas-de-arte.jpeg
+title: Todas as escolas deveriam ser escolas de arte
+date: 2017-02-07 00:00:00 Z
 categories:
-  - blog
-tags: 
-  - cotidiano
-  - reflexão
-  - arte
-  - educação
+- blog
+tags:
+- cotidiano
+- reflexão
+- arte
+- educação
+excerpt: Por que deveríamos pensar como artistas?
+last_modified_at: 2017-02-07 15:27:01 Z
+og_image: assets/images/escolas-de-arte.jpeg
 ---
 
 O artista [Bob and Roberta Smith](https://g.co/kgs/6TBn7B) (sim, é um pseudônimo. O nome "real" do artista é Patrick Brill) fez esse cartaz abaixo para uma conferência ("Art Party", 2013) em que se discutia o papel da arte e dos artistas nas escolas da Inglaterra:

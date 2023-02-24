@@ -1,12 +1,15 @@
 ---
-title: "Rousseau e a contradição entre as ideias e todo o resto"
-description: "Nesse episódio falo sobre a vida e as ideias de um dos filósofos mais importantes (e contraditórios) de toda a história da Filosofia: Jean-Jacques Rousseau (1712-1778)."
-date: 2020-05-26
+title: Rousseau e a contradição entre as ideias e todo o resto
+date: 2020-05-26 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- filosofia
+- rousseau
+description: 'Nesse episódio falo sobre a vida e as ideias de um dos filósofos mais
+  importantes (e contraditórios) de toda a história da Filosofia: Jean-Jacques Rousseau
+  (1712-1778).'
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - filosofia
-  - rousseau
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Rousseau-e-a-contradio-entre-as-ideias-e-todo-o-resto-eeibb9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

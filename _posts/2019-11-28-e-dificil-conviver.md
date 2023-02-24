@@ -1,11 +1,12 @@
 ---
-title: "É difícil conviver"
-description: "Alguém gosta de admitir sua própria misantropia?"
-date: 2019-11-28
+title: É difícil conviver
+date: 2019-11-28 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Cotidiano
+description: Alguém gosta de admitir sua própria misantropia?
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Cotidiano
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/difcil-conviver-e98c1g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

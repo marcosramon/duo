@@ -1,11 +1,15 @@
 ---
-layout: post
 title: Ler e escrever... ainda faz sentido?
-published: true
-description: "Estava pensando dia desses que a leitura já podia não existir. Estamos com tecnologias cada vez mais interativas que permitem que a gente se comunique, produza e acesse informação de forma mais simples e rápida."
-tags: [cotidiano, leitura]
-categories: blog
-date: 2014-06-20
+date: 2014-06-20 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- leitura
+layout: post
+description: Estava pensando dia desses que a leitura já podia não existir. Estamos
+  com tecnologias cada vez mais interativas que permitem que a gente se comunique,
+  produza e acesse informação de forma mais simples e rápida.
 author: Marcos Ramon
 ---
 

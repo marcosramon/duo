@@ -1,9 +1,13 @@
 ---
-layout: post
 title: A guerra na tevê
+date: 2020-01-03 00:00:00 Z
+categories:
+- blog
+layout: post
 image: guerra.jpeg
-excerpt: "Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão. E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a guerra na tevê."
-categories: blog
+excerpt: 'Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão.
+  E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a
+  guerra na tevê.'
 ---
 
 Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão. E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a guerra na tevê. Era a [Guerra do Golfo](https://pt.m.wikipedia.org/wiki/Guerra_do_Golfo) e foi a primeira vez que existia um trabalho jornalístico daquele jeito, a primeira vez que se podia ver os ataques acontecendo ao vivo, diante dos olhos do mundo inteiro.

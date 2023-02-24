@@ -1,12 +1,13 @@
 ---
-layout: post
 title: É só o tempo que passa
-description: "Todo dia a gente fica mais velho"
-date: 2014-06-16
-published: true
-tags: [cotidiano]
+date: 2014-06-16 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
+description: Todo dia a gente fica mais velho
 image: ficandovelho.jpg
-categories: blog
 author: Marcos Ramon
 ---
 

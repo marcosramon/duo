@@ -1,13 +1,14 @@
 ---
-title: "Um dilema ético"
-description: "Pra que serve a ética?"
-date: 2019-05-25
-categories: ficcoes
+title: Um dilema ético
+date: 2019-05-25 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Ética
+- Moral
+- Comportamento
+description: Pra que serve a ética?
 image: ficcoes400x200.jpg
-tags: 
-  - Ética
-  - Moral
-  - Comportamento
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Um-dilema-tico-e455ad" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

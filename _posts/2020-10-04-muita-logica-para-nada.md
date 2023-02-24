@@ -1,10 +1,15 @@
 ---
-layout: post
-published: true
-categories: blog
-image: eyes.gif
 title: Muita lógica para nada?
-excerpt: "Muitas pessoas, ao longo da história, já esbravejaram contra a tentativa de racionalização e organização do pensamento por meio da lógica. Desde de Sócrates, que via os sofistas como um grupo que se aproveitava da argumentação para confundir o povo e distorcer a verdade, até o pós-modernos (que desacreditam da própria noção de verdade e da lógica), temos visto todo tipo de argumentação contra a argumentação."
+date: 2020-10-04 00:00:00 Z
+categories:
+- blog
+layout: post
+image: eyes.gif
+excerpt: Muitas pessoas, ao longo da história, já esbravejaram contra a tentativa
+  de racionalização e organização do pensamento por meio da lógica. Desde de Sócrates,
+  que via os sofistas como um grupo que se aproveitava da argumentação para confundir
+  o povo e distorcer a verdade, até o pós-modernos (que desacreditam da própria noção
+  de verdade e da lógica), temos visto todo tipo de argumentação contra a argumentação.
 ---
 
 Muitas pessoas, ao longo da história, já esbravejaram contra a tentativa de racionalização e organização do pensamento por meio da lógica. Desde de Sócrates, que via os sofistas como um grupo que se aproveitava da argumentação para confundir o povo e distorcer a verdade, até o pós-modernos (que desacreditam da própria noção de verdade e da lógica), temos visto todo tipo de argumentação contra a argumentação. E dentre os muitos exemplos que existem nesse sentido, talvez uma das espirituosas seja essa frase de Dostoiévski:

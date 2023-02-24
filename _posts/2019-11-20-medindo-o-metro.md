@@ -1,11 +1,12 @@
 ---
-title: "Medindo o metrô"
-description: "Hoje, no metrô, lembrei de um texto que escrevi em 2015."
-date: 2019-11-20
+title: Medindo o metrô
+date: 2019-11-20 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Cotidiano
+description: Hoje, no metrô, lembrei de um texto que escrevi em 2015.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Cotidiano
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Medindo-o-metr-e93t53" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

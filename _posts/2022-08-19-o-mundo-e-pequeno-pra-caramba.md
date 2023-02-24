@@ -1,14 +1,17 @@
 ---
+title: O mundo é pequeno pra caramba
+date: 2022-08-19 21:32:00 Z
+categories:
+- blog
 tags:
 - Viagem
 - Cotidiano
 layout: post
-categories: blog
-excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos o turismo.
-title: O mundo é pequeno pra caramba
+excerpt: A maneira como usamos a tecnologia transforma também o jeito como encaramos
+  o turismo.
 image: "/uploads/selfie-hole.jpg"
-date: 2022-08-19 21:32:00 +0000
 ---
+
 Estou planejando uma viagem e, também por conta disso, comecei a seguir alguns perfis no Instagram relacionados ao tema (ou de pessoas que, nesse momento, estão documentando suas viagens). Como não poderia deixar de ser, comecei a ser bombardeado com conteúdo de viagem do tipo mais diverso: venda de malas,  seguros, tickets para passeios, perfis focados em "experiência" de turismo etc.
 
 Daí lembrei que li, faz já um tempo, um [texto da Susan Sontag]() em que ela discutia a relação entre o avanço das câmeras fotográficas e a invenção do turismo. Pode ser estranho pensar sobre isso agora, mas o turismo é, de fato, uma invenção do século XX. Não que o desejo de conhecer o mundo seja novo. Goethe fez enorme sucesso com seus [diários de viagem para a Itália](https://amzn.to/3c45J74) justamente porque essa vontade, de conhecer o que é de fora, já existia. Também [Montaigne dedica inúmeros ensaios ao tema da viagens](https://amzn.to/3Aqeim2), ou ao desejo de fazê-las. No entanto, por muito tempo, viajar era coisa para pouquíssimas pessoas. O trânsito de pessoas entre cidades potencialmente turísticas era pequeno e o custo dessas aventuras era altíssimo[^1]. Algo bem diferente do que temos hoje, com milhões de pessoas se movendo para todo lado durante o ano inteiro.

@@ -1,14 +1,19 @@
 ---
-layout: post
-date: 2014-11-27
-title: "Ficções #09 - Um pouco de verdade"
-description: "Geralmente associamos a verdade como aquilo que se adequa ou explica a realidade. Mas isso é suficiente para compreendermos o que a verdade realmente é?"
-duration: 07:48
+title: 'Ficções #09 - Um pouco de verdade'
+date: 2014-11-27 00:00:00 Z
 published: false
-tags: [podcast, filosofia]
+categories:
+- ficcoes
+tags:
+- podcast
+- filosofia
+layout: post
+description: Geralmente associamos a verdade como aquilo que se adequa ou explica
+  a realidade. Mas isso é suficiente para compreendermos o que a verdade realmente
+  é?
+duration: 468.0
 author: Marcos Ramon
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 Geralmente associamos a verdade com aquilo que se adequa ou explica a realidade. Mas isso é suficiente para compreendermos o que a verdade realmente é?

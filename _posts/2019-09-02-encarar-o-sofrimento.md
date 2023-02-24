@@ -1,17 +1,17 @@
 ---
-title: "Encarar o sofrimento"
-excerpt: "Qual é o melhor caminho para a ética?"
-date: 2019-09-02
-published: true
-og_image: assets/images/cormac.jpg
-tags: 
-  - sofrimento
-  - comportamento
-  - filosofia
-  - ética
+title: Encarar o sofrimento
+date: 2019-09-02 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- sofrimento
+- comportamento
+- filosofia
+- ética
+excerpt: Qual é o melhor caminho para a ética?
+og_image: assets/images/cormac.jpg
 ---
+
 Não é simples dizer a uma pessoa que está sofrendo (por qualquer motivo que seja) que aquilo que ela vive não é relevante, que não importa ou que não é tão grave assim. Quem está de fora sempre acha que o sofrimento dos outros é mais simples ou mais suportável. Afinal, todo mundo já passou por situações em que achou que a dor não ia passar ou que nada ia realmente melhorar. Mas na maior parte das vezes as coisas se resolvem — e a dor fica pra trás como uma lembraça ruim. Por que então não somos mais atentos aos sofrimentos dos outros?
 
 Schopenhauer considerava o sofrimento como aquilo que há de positivo na existência, ou seja, aquilo que é permanente. Logo, o prazer, a alegria, a felicidade, nada mais são do que momentos em que a dor não está presente. Esses momentos são menos constantes do que aqueles de dor; mas a natureza é serva da vontade de viver e, por isso, nosso corpo sabe disfarçar esses sinais de sofrimento para que não nos desesperemos mais do que o necessário, para não desistirmos da vida. Esse é o motivo pelo qual tendemos a elevar nossos próprios sofrimentos e, em certa medida, menosprezar os dos outros: todo mundo sofre, mas só sentimos de fato aquilo que ocorre conosco. Assim, é inevitável que nossa consciência se concentre no modo como a vontade age sobre nós mesmos.

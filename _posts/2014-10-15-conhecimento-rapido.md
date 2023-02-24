@@ -1,12 +1,14 @@
 ---
-layout: post
-date: 2014-10-15
 title: Conhecimento rápido
+date: 2014-10-15 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- leitura
+layout: post
 description: Leitura religiosa fast-food... Sério?
-published: true
-tags: [cotidiano, leitura]
 image: knowledge-fast-food-19637437.jpg
-categories: blog
 author: Marcos Ramon
 ---
 

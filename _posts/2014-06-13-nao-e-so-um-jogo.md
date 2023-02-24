@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Não é só um jogo
-description: "O futebol não é só um jogo, mas uma representação da ambiguidade moral humana."
-date: 2014-06-13
-published: true
+date: 2014-06-13 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- cultura
+layout: post
+description: O futebol não é só um jogo, mas uma representação da ambiguidade moral
+  humana.
 image: penaltifred.jpg
-categories: blog
-tags: [cotidiano, cultura]
 author: Marcos Ramon
 ---
 

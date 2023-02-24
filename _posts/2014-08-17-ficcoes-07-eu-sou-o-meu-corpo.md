@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2014-08-17
-title: "Ficções #07 - Eu sou o meu corpo?"
-description: "O nosso corpo define o que nós somos?"
+title: 'Ficções #07 - Eu sou o meu corpo?'
+date: 2014-08-17 00:00:00 Z
 published: false
-tags: [podcast, filosofia]
+categories:
+- ficcoes
+tags:
+- podcast
+- filosofia
+layout: post
+description: O nosso corpo define o que nós somos?
 image: ficcoes.jpg
-categories: ficcoes
 author: Marcos Ramon
 ---
 

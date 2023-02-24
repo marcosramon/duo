@@ -1,13 +1,15 @@
 ---
-layout: post
 title: Resoluções para 2014
-description: "Coisas que eu tenho que fazer no ano que vem"
-published: true
-tags: [cotidiano, desenho]
-image: "2014.jpg"
-date: 2013-12-31
+date: 2013-12-31 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- desenho
+layout: post
+description: Coisas que eu tenho que fazer no ano que vem
+image: 2014.jpg
 author: Marcos Ramon
-categories: blog
 ---
 
 <img src="/assets/images/2014.jpg">

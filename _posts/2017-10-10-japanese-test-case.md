@@ -1,10 +1,8 @@
 ---
-title: "Japanese Test Case"
-lang: "ja"
+title: Japanese Test Case
+date: 2017-10-10 00:00:00 Z
 published: false
-
-# To set og:image:
-# image: ...
+lang: ja
 ---
 
 日本経済新聞2011/10/9日掲載『[「ハングリーであれ。愚か者であれ」ジョブズ氏スピーチ全訳](https://www.nikkei.com/article/DGXZZO35455660Y1A001C1000000/)』より

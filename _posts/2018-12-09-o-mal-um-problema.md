@@ -1,15 +1,17 @@
 ---
-title: "O mal é um problema?"
-excerpt: "Uma discussão recorrente dentro da filosofia é a reflexão sobre o problema do mal. Digo “problema”, mas é preciso pontuar que, para muitos autores, não se trata de algo a que se pode recorrer com uma solução."
-last_modified_at: 2018-12-09T10:27:01-05:00
-date: 2018-12-09
-og_image: assets/images/Stefan+Zsaitsits.jpg
-tags: 
-  - reflexão
-  - filosofia
-  - ética
+title: O mal é um problema?
+date: 2018-12-09 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- reflexão
+- filosofia
+- ética
+excerpt: Uma discussão recorrente dentro da filosofia é a reflexão sobre o problema
+  do mal. Digo “problema”, mas é preciso pontuar que, para muitos autores, não se
+  trata de algo a que se pode recorrer com uma solução.
+last_modified_at: 2018-12-09 15:27:01 Z
+og_image: assets/images/Stefan+Zsaitsits.jpg
 ---
 
 Uma discussão recorrente dentro da filosofia é a reflexão sobre o problema do mal. Digo “problema”, mas é preciso pontuar que, para muitos autores, não se trata de algo a que se pode recorrer com uma solução. Logo, a percepção de “problema” talvez não caiba aqui. Thomas Hobbes, por exemplo, quando afirma que a natureza humana é má por natureza, reconhece que, não podendo lutar contra quem somos, podemos pelo menos nos redimir criando artifícios para combater a nossa natureza. No caso dele, a proposta é a ideia do contrato social. O contrato, nas bases de um combate à maldade inata que prevalece em cada um, se instaura como uma possibilidade de uma vida menos dolorosa. Afinal, se “o homem é o lobo do homem”, abrir mão da liberdade e dos instintos egoístas torna a vida possível, ainda que com algum nível de sofrimento e privação.

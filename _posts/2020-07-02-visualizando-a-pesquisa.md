@@ -1,10 +1,11 @@
 ---
-layout: post
-published: true
-categories: blog
-image: gp1.png
 title: Visualizando a pesquisa
-excerpt: "Observando termos relacionados em uma reunião do grupo de pesquisa."
+date: 2020-07-02 00:00:00 Z
+categories:
+- blog
+layout: post
+image: gp1.png
+excerpt: Observando termos relacionados em uma reunião do grupo de pesquisa.
 ---
 
 Na última terça, no grupo de pesquisa, começamos a leitura do livro "[O objeto ansioso](https://amzn.to/31Cyz6L)", de Harold Rosenberg. A partir das discussões pelo Google Meet (éramos seis pessoas) montei um grafo com as anotações das nossas falas e reflexões: 

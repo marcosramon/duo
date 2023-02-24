@@ -1,9 +1,11 @@
 ---
-published: true
 title: A presunção moral
-categories: blog
+date: 2022-07-07 00:00:00 Z
+categories:
+- blog
 layout: post
-excerpt: Todo mundo acha que é melhor e mais correto do que os outros. Mas, no final, somos todos parte do mesmo problema.
+excerpt: Todo mundo acha que é melhor e mais correto do que os outros. Mas, no final,
+  somos todos parte do mesmo problema.
 ---
 
 Viver em sociedade implica, necessariamente, em aceitar o confronto com os outros. Tem que ser desse jeito e não pode ser de outro porque não existe vida sem conflito — o que não significa que a gente precise estar em constante estado de violência ou agressão. 

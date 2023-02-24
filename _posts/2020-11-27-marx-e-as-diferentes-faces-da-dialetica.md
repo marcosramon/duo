@@ -1,10 +1,17 @@
 ---
 title: Marx e as diferentes faces da dialética
+date: 2020-11-27 00:00:00 Z
+categories:
+- blog
 layout: post
-published: true
-categories: blog
 image: dialetica.png
-excerpt: "A reflexão sobre a palavra dialética passa hoje, necessariamente, pela presença da filosofia de Marx. Mas o próprio Marx incorporou o uso da dialética a partir de uma reflexão que foi feita no decorrer da história da filosofia. De Heráclito a Hegel, a dialética foi ganhando os contornos do que pensamos hoje para o conceito, mas certamente é em Hegel que Marx se inspirou de maneira mais direta para pensar a possibilidade de encarar a realidade por meio do conflito entre posicionamentos opostos."
+excerpt: A reflexão sobre a palavra dialética passa hoje, necessariamente, pela presença
+  da filosofia de Marx. Mas o próprio Marx incorporou o uso da dialética a partir
+  de uma reflexão que foi feita no decorrer da história da filosofia. De Heráclito
+  a Hegel, a dialética foi ganhando os contornos do que pensamos hoje para o conceito,
+  mas certamente é em Hegel que Marx se inspirou de maneira mais direta para pensar
+  a possibilidade de encarar a realidade por meio do conflito entre posicionamentos
+  opostos.
 ---
 
 A reflexão sobre a palavra dialética passa hoje, necessariamente, pela presença da filosofia de Marx. Mas o próprio Marx incorporou o uso da dialética a partir de uma reflexão que foi feita no decorrer da história da filosofia. De Heráclito a Hegel, a dialética foi ganhando os contornos do que pensamos hoje para o conceito, mas certamente é em Hegel que Marx se inspirou de maneira mais direta para pensar a possibilidade de encarar a realidade por meio do conflito entre posicionamentos opostos.

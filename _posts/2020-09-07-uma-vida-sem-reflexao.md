@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: blog
-image: martinez.jpeg
 title: Uma vida sem reflexão
-excerpt: "Refletir sobre a realidade a todo instante deveria sem um imperativo para todos nós. Mas quem tem tempo, disposição e comprometimento para fazer isso?"
+date: 2020-09-07 00:00:00 Z
+categories:
+- blog
+layout: post
+image: martinez.jpeg
+excerpt: Refletir sobre a realidade a todo instante deveria sem um imperativo para
+  todos nós. Mas quem tem tempo, disposição e comprometimento para fazer isso?
 ---
 
 De acordo com Platão, Sócrates era da opinião de que uma vida sem reflexão não merecia ser vivida. Apesar da beleza desse tipo de proposta, a maior parte das pessoas de fato vivem sem refletir sobre a própria existência. Além disso, é bem provável que dentre esses, muitos ainda defendam que não refletir é o melhor que se pode fazer para viver bem.

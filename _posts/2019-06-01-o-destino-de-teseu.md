@@ -1,14 +1,15 @@
 ---
-title: "O destino de Teseu"
-description: "Um herói sem ascendência divina, um minotauro, um destino trágico."
-date: 2019-06-01
-tags: 
-  - Teseu
-  - Mitologia
-  - Herói
-  - Destino
+title: O destino de Teseu
+date: 2019-06-01 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Teseu
+- Mitologia
+- Herói
+- Destino
+description: Um herói sem ascendência divina, um minotauro, um destino trágico.
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/O-destino-de-Teseu-e47c4f" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

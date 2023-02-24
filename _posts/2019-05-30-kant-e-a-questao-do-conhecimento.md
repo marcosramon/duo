@@ -1,13 +1,14 @@
 ---
-title: "Kant e a questão do conhecimento"
-description: "Sobre os limites do que podemos saber."
-date: 2019-05-30
+title: Kant e a questão do conhecimento
+date: 2019-05-30 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Kant
+- Conhecimento
+- Metafísica
+description: Sobre os limites do que podemos saber.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Kant
-  - Conhecimento
-  - Metafísica
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Kant-e-a-questo-do-conhecimento-e46nlk" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

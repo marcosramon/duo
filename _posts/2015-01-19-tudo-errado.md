@@ -1,10 +1,15 @@
 ---
+title: Tudo errado?
+date: 2015-01-19 00:00:00 Z
+tags:
+- blog
+- tecnologia
+- cotidiano
 layout: post
-date: 2015-01-19
-title: "Tudo errado?"
-description: "Sentei diante do computador, abri uma janela do navegador, outra, outra e pensei comigo mesmo: faz tempo que não escrevo no blog. Acho que preciso escrever alguma coisa. Daí fiquei pensando sobre o que eu devia escrever, de que forma e de um jeito que ficasse interessante..."
-published: true
-tags: [blog, tecnologia, cotidiano]
+description: 'Sentei diante do computador, abri uma janela do navegador, outra, outra
+  e pensei comigo mesmo: faz tempo que não escrevo no blog. Acho que preciso escrever
+  alguma coisa. Daí fiquei pensando sobre o que eu devia escrever, de que forma e
+  de um jeito que ficasse interessante...'
 author: Marcos Ramon
 header-img: "/img/abstrato4.jpg"
 ---

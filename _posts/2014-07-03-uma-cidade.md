@@ -1,12 +1,16 @@
 ---
-layout: post
 title: Uma cidade
-published: true
-description: "Faz tempo que eu não vinha à São Luís. Uns três anos, eu acho. Mas passei a minha vida quase toda aqui. Foram 30 anos sem ter uma outra referência do que era viver em outro lugar, sem perceber diferenças entre ambientes, costumes, serviços, facilidades etc."
-tags: [cotidiano]
+date: 2014-07-03 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
+description: Faz tempo que eu não vinha à São Luís. Uns três anos, eu acho. Mas passei
+  a minha vida quase toda aqui. Foram 30 anos sem ter uma outra referência do que
+  era viver em outro lugar, sem perceber diferenças entre ambientes, costumes, serviços,
+  facilidades etc.
 image: saoluis.jpg
-categories: blog
-date: 2014-07-03
 author: Marcos Ramon
 ---
 

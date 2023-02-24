@@ -1,10 +1,11 @@
 ---
-layout: post
-published: true
-categories: blog
-image: mariaramos.jpeg
 title: Saber a felicidade
-excerpt: "Será que a filosofia pode nos ajudar a alcançar a felicidade?"
+date: 2020-09-20 00:00:00 Z
+categories:
+- blog
+layout: post
+image: mariaramos.jpeg
+excerpt: Será que a filosofia pode nos ajudar a alcançar a felicidade?
 ---
 
 Para [Epicuro](https://g.co/kgs/JrLlmR), a tarefa da filosofia é nos proporcionar uma vida feliz. Mas essa é uma forma curiosa de ver a filosofia e suas possibilidades, principalmente pelo fato de que, na atualidade, costumamos considerar o saber e a reflexão como empecilhos para uma vida tranquila. Afinal, tendemos a crer que pensar e refletir são atitudes que nos prenderão a um mundo de problemas constantes. Mas será que é assim mesmo?

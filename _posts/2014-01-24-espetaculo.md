@@ -1,11 +1,17 @@
 ---
+title: Espetáculo
+date: 2014-01-24 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- cultura
 layout: post
-date: 2014-01-24
-title: "Espetáculo"
-description: "Tem algo de irônico no fato de que eu consigo gostar tanto da visão de cultura de Mario Vargas Llosa mesmo tendo atitudes completamente opostas a tudo o que ele diz. Minutos depois de reler um capítulo de A civilização do espetáculo eu consigo ir jogar Super Mario no Wii ou Pokémon no Dsi sem sentir incômodo algum. Sou contraditório? Talvez."
-published: true
-categories: blog
-tags: [cotidiano, cultura]
+description: Tem algo de irônico no fato de que eu consigo gostar tanto da visão de
+  cultura de Mario Vargas Llosa mesmo tendo atitudes completamente opostas a tudo
+  o que ele diz. Minutos depois de reler um capítulo de A civilização do espetáculo
+  eu consigo ir jogar Super Mario no Wii ou Pokémon no Dsi sem sentir incômodo algum.
+  Sou contraditório? Talvez.
 author: Marcos Ramon
 ---
 

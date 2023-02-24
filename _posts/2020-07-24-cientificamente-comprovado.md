@@ -1,10 +1,11 @@
 ---
-layout: post
-published: true
-categories: blog
-image: coeur.gif
 title: Cientificamente comprovado
-excerpt: "Uma reflexão sobre o que faz com que a ciência seja ciência"
+date: 2020-07-24 00:00:00 Z
+categories:
+- blog
+layout: post
+image: coeur.gif
+excerpt: Uma reflexão sobre o que faz com que a ciência seja ciência
 ---
 
 A melhor forma de iniciar uma discussão sobre o valor da ciência é apresentando um conceito. O que eu trago aqui é um conceito bem genérico, é verdade, mas que atende satisfatoriamente a nossa percepção sobre o que é a ciência e o que podemos esperar dela: 

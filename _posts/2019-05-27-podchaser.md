@@ -1,12 +1,13 @@
 ---
-title: "Podchaser"
-description: "Um lugar para compartilhar informações e impressões sobre podcasts."
-date: 2019-05-27
+title: Podchaser
+date: 2019-05-27 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Podcast
+- Interação
+description: Um lugar para compartilhar informações e impressões sobre podcasts.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Podcast
-  - Interação
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Podchaser-e45ne4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

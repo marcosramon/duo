@@ -1,17 +1,21 @@
 ---
-title: "Amazon Prime no Brasil"
-description: "Compre, compre, compre! Quais os planos da Amazon com esse serviço quase absurdo em sua proposta?"
+title: Amazon Prime no Brasil
+date: 2019-09-18 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Tecnologia
+- Consumo
+description: Compre, compre, compre! Quais os planos da Amazon com esse serviço quase
+  absurdo em sua proposta?
 sidebar:
-  - title: "Ficções"
-    text: "Um podcast sobre narrativas filosóficas"
-  - title: "Escute"
-    text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA), [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
-date: 2019-09-18
+- title: Ficções
+  text: Um podcast sobre narrativas filosóficas
+- title: Escute
+  text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA),
+    [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz)
+    ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Tecnologia
-  - Consumo
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Amazon-Prime-no-Brasil-e5ehq4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

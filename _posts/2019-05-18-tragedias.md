@@ -1,14 +1,15 @@
 ---
-title: "Tragédias"
-description: "Da dificuldade de entender as tragédias com o olhar da modernidade."
-date: 2019-05-18
-categories: ficcoes
+title: Tragédias
+date: 2019-05-18 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Tragédia
+- Teatro
+- Ética
+- Destino
+description: Da dificuldade de entender as tragédias com o olhar da modernidade.
 image: ficcoes400x200.jpg
-tags: 
-  - Tragédia
-  - Teatro
-  - Ética
-  - Destino
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Tragdias-e42rku" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

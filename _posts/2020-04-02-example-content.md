@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Example content
+date: 2020-04-02 00:00:00 Z
 published: false
+layout: post
 ---
 
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.

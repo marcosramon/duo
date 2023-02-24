@@ -1,13 +1,14 @@
 ---
-title: "Livros — até quando?"
-description: "Ainda teremos livros."
-date: 2019-11-19
+title: Livros — até quando?
+date: 2019-11-19 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Filosofia
+- Literatura
+- Livros
+description: Ainda teremos livros.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Filosofia
-  - Literatura
-  - Livros
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Livros--at-quando-e93aur" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

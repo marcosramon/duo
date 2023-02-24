@@ -1,15 +1,14 @@
 ---
-title: "A verdadeira história"
-excerpt: "Sobre a fragilidade do modo como vemos o passado"
-date: 2019-06-17
-published: true
-og_image: /assets/images/vangogh.jpg
-tags: 
-  - arte
-  - comportamento
-  - cultura
+title: A verdadeira história
+date: 2019-06-17 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- arte
+- comportamento
+- cultura
+excerpt: Sobre a fragilidade do modo como vemos o passado
+og_image: "/assets/images/vangogh.jpg"
 ---
 
 Lendo um [texto sobre o que de fato teria acontecido na noite em que Van Gogh cortou fora a própria orelha](https://www.bbc.com/portuguese/geral-46731221), fiquei pensando em como é frágil a própria noção de história que temos.

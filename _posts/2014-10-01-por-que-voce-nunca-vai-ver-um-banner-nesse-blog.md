@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Cansaço
+date: 2014-10-01 00:00:00 Z
 published: false
-tags: [tecnologia]
+tags:
+- tecnologia
+layout: post
 author: Marcos Ramon
 ---
 

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Mapas e Viagens
-description: "Gosta de viajar? Gosta de mapas?"
+date: 2014-05-10 00:00:00 Z
 published: false
-tags: [indico]
-categories: blog
-date: 2014-05-10
+categories:
+- blog
+tags:
+- indico
+layout: post
+description: Gosta de viajar? Gosta de mapas?
 author: Marcos Ramon
 ---
 

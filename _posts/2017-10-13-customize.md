@@ -1,9 +1,7 @@
 ---
-title: "Customize Duo"
+title: Customize Duo
+date: 2017-10-13 00:00:00 Z
 published: false
-
-# To set og:image:
-# image: ...
 ---
 
 ## Step 1: Customize `_config.yml`

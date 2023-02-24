@@ -1,11 +1,14 @@
 ---
+title: O direito ao mau humor
+date: 2014-11-18 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- cultura
+- sociedade
 layout: post
-date: 2014-11-18
-title: "O direito ao mau humor"
 description: Quem disse que todo mundo tem que sorrir o tempo todo?
-published: true
-categories: blog
-tags: [cotidiano, cultura, sociedade]
 image: blackhole.jpg
 author: Marcos Ramon
 ---

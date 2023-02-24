@@ -1,13 +1,14 @@
 ---
-title: "Ícaro e os limites do conhecimento"
-description: "Sobre Dédalo, Ícaro e a justa medida que deveria acompanhar o saber."
-date: 2019-06-06
+title: Ícaro e os limites do conhecimento
+date: 2019-06-06 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Ícaro
+- Mitologia
+- Conhecimento
+description: Sobre Dédalo, Ícaro e a justa medida que deveria acompanhar o saber.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Ícaro
-  - Mitologia
-  - Conhecimento
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/caro-e-os-limites-do-conhecimento-e4924a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

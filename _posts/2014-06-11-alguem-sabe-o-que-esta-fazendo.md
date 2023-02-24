@@ -1,12 +1,16 @@
 ---
-layout: post
 title: Alguém sabe o que está fazendo?
-published: true
-description: "Trabalho com educação e é impossível eu não pensar sobre como as coisas funcionam em relação ao processo de ensino-aprendizagem. Por que ensinamos da forma como ensinamos?"
-date: 2014-06-11
+date: 2014-06-11 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- ensino
+layout: post
+description: Trabalho com educação e é impossível eu não pensar sobre como as coisas
+  funcionam em relação ao processo de ensino-aprendizagem. Por que ensinamos da forma
+  como ensinamos?
 image: temadaula.jpg
-categories: blog
-tags: [cotidiano, ensino]
 author: Marcos Ramon
 ---
 

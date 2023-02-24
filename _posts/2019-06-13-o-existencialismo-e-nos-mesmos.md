@@ -1,15 +1,14 @@
 ---
-title: "O existencialismo e nós mesmos"
-excerpt: "Quando a filosofia fala sobre nós"
-date: 2019-06-13
-published: true
-og_image: /assets/images/791EBB12-6161-48DE-87AF-E374222C255C.jpeg
-tags: 
-  - filosofia
-  - sociedade
-  - ética
+title: O existencialismo e nós mesmos
+date: 2019-06-13 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- filosofia
+- sociedade
+- ética
+excerpt: Quando a filosofia fala sobre nós
+og_image: "/assets/images/791EBB12-6161-48DE-87AF-E374222C255C.jpeg"
 ---
 
 O existencialismo é uma das correntes filosóficas mais conhecidas. Isso se não for, efetivamente, a mais destacada (ou mais famosa, caso optemos por essa distinção) dentre todas aquelas que surgiram na profusão de teorias e propostas decorrentes da passagem da modernidade para a contemporaneidade.

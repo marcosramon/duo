@@ -1,12 +1,14 @@
 ---
-title: "Conhecimento Filosófico"
-description: "Quais são as características do conhecimento filosófico e o que o difere de outras formas de conhecimento?"
-date: 2020-08-16
+title: Conhecimento Filosófico
+date: 2020-08-16 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- filosofia
+- cotidiano
+description: Quais são as características do conhecimento filosófico e o que o difere
+  de outras formas de conhecimento?
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - filosofia
-  - cotidiano
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Conhecimento-Filosfico-ei81n8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Por que eu sei que eu sou escritor?
-published: true
-tags: [cotidiano]
-categories: blog
-date: 2014-07-27
+date: 2014-07-27 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
 author: Marcos Ramon
 ---
 

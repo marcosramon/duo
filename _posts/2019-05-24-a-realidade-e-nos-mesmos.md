@@ -1,13 +1,14 @@
 ---
-title: "A realidade e nós mesmos"
-description: "Como saber que nós somos quem achamos que somos?"
-date: 2019-05-24
-tags: 
-  - Realidade
-  - Identidade
-  - Percepção
+title: A realidade e nós mesmos
+date: 2019-05-24 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Realidade
+- Identidade
+- Percepção
+description: Como saber que nós somos quem achamos que somos?
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/A-realidade-e-ns-mesmos-e44tp1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

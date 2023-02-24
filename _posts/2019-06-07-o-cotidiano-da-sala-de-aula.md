@@ -1,16 +1,15 @@
 ---
-title: "O cotidiano da sala de aula"
-excerpt: "O conflito diário de quem trabalha com educação"
-date: 2019-06-07
-published: true
-og_image: assets/images/reemtwaim.jpg
-tags: 
-  - educação
-  - cotidiano
-  - ensino
-  - trabalho
+title: O cotidiano da sala de aula
+date: 2019-06-07 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- educação
+- cotidiano
+- ensino
+- trabalho
+excerpt: O conflito diário de quem trabalha com educação
+og_image: assets/images/reemtwaim.jpg
 ---
 
 Trabalho com educação desde 2014, quando me formei na Licenciatura em Filosofia da Universidade Federal do Maranhão. Na verdade, desde o último ano de curso eu já vinha tendo experiências com o ensino por conta de um estágio remunerado que consegui em um projeto de cursinho pré-vestibular gerenciado pelo Governo do Estado e por trabalhos em pequenas escolas e cursinhos particulares. De lá pra cá, tenho vivido uma situação conflitante que é perceber que o melhor da docência se encontra justamente no seu aspecto mais difícil: a sala de aula. 

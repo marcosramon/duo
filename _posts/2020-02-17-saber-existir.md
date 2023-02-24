@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Saber existir
+date: 2020-02-17 00:00:00 Z
+categories:
+- blog
+layout: post
 image: botas.jpeg
-categories: blog
-excerpt: "Quando perdemos alguém próximo a nós, sentimos, mais do que em qualquer outro momento da vida, a presença da sensação de incapacidade, pois é impossível agir diante de algo que está para além da nossa vontade."
+excerpt: Quando perdemos alguém próximo a nós, sentimos, mais do que em qualquer outro
+  momento da vida, a presença da sensação de incapacidade, pois é impossível agir
+  diante de algo que está para além da nossa vontade.
 ---
 
 Quando perdemos alguém próximo a nós, sentimos, mais do que em qualquer outro momento da vida, a presença da sensação de incapacidade, pois é impossível agir diante de algo que está para além da nossa vontade. Ainda assim, penso, como escreveu Epicuro, que não devemos temer a morte como se ela fosse essencialmente algo ruim. Afinal, nesse tipo de situação aprendemos a ser mais humildes, mais conscientes de nós mesmos e também mais afeitos a compreender as pessoas que nos cercam.

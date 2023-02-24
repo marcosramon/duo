@@ -1,13 +1,14 @@
 ---
-title: "What Remains of Edith Finch"
-description: "Sobre jogos e narrativas."
-date: 2019-05-17
-tags: 
-  - Jogos
-  - Games
-  - Narrativa
+title: What Remains of Edith Finch
+date: 2019-05-17 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Jogos
+- Games
+- Narrativa
+description: Sobre jogos e narrativas.
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/What-Remains-of-Edith-Finch-e42jh1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

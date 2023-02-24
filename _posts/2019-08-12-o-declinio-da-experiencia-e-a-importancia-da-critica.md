@@ -1,17 +1,19 @@
 ---
-title: "O declínio da experiência e a importância da crítica"
-excerpt: "Quando eu estava na Universidade cursando a Licenciatura em Filosofia, tínhamos uma disciplina que era ministrada por dois professores que se alternavam a cada semestre. Um só falava de Benjamin, o outro, de Heidegger."
-date: 2019-08-12
-published: true
-og_image: assets/images/benjamin.jpg
-tags: 
-  - filosofia
-  - história
-  - experiência
-  - arte
+title: O declínio da experiência e a importância da crítica
+date: 2019-08-12 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- filosofia
+- história
+- experiência
+- arte
+excerpt: Quando eu estava na Universidade cursando a Licenciatura em Filosofia, tínhamos
+  uma disciplina que era ministrada por dois professores que se alternavam a cada
+  semestre. Um só falava de Benjamin, o outro, de Heidegger.
+og_image: assets/images/benjamin.jpg
 ---
+
 Quando eu estava na Universidade cursando a Licenciatura em Filosofia, tínhamos uma disciplina que era ministrada por dois professores que se alternavam a cada semestre. Um só falava de Benjamin, o outro, de Heidegger. Eu fiz a tal disciplina no modo Benjamin, e foi uma boa surpresa. Conheci ali um autor contemporâneo que, primeiro, não era impossível de ler e, segundo, tinha um apreço realmente gigante pela arte e pela forma como arte nos afeta, modificando nossa forma de entender e sentir a realidade. Heidegger, eu descobri depois, também tinha uma perspectiva poética na escrita (principalmente nos últimos textos), mas sinto até hoje que ele é um autor que pensa em voz alta no lugar de dialogar com o leitor. Benjamin não; ali eu reconheci o que mais admiro em qualquer escritor: a capacidade de se aproximar de quem lê.
 
 Walter Benjamin é conhecido como aquele que, dentre os pesquisadores da escola de Frankfurt, era um dos menos pessimistas. Enquanto Adorno e Horkheimer apostavam na dissolução do modo de produção capitalista para salvaguardar alguma possibilidade de uma arte séria, Benjamin — mais conectado à realidade inevitável que o cercava — via na reprodutibilidade e nos meios de comunicação de massa um caminho possível para o encontro com o conhecimento por meio da cultura. Claro, cabia ainda falar de ressignificação de determinados conceitos, a confusão entre valor cultural e valor econômico, a perda da aura, a inevitável crise da experiência. Mas, mesmo assim, o acesso às obras de arte por meio da reprodutibilidade e os experimentos estéticos modernos (até aqueles feitos no contexto das artes sem aura, como é o caso do cinema) levavam Benjamin a acreditar que a atrofia da experiência não era o nosso único destino.

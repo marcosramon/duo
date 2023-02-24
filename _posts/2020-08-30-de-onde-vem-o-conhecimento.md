@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: blog
-image: sveta.jpeg
 title: De onde vem o conhecimento?
-excerpt: "A gente cresceu aprendendo que o conhecimento é algo necessário. Mas todo mundo é capaz de produzir conhecimento, ou isso é só para os gênios?"
+date: 2020-08-30 00:00:00 Z
+categories:
+- blog
+layout: post
+image: sveta.jpeg
+excerpt: A gente cresceu aprendendo que o conhecimento é algo necessário. Mas todo
+  mundo é capaz de produzir conhecimento, ou isso é só para os gênios?
 ---
 
 A gente cresceu aprendendo que o conhecimento é algo necessário. Mas aprendemos também que o conhecimento é produzido por poucos, sendo muito difícil entrar nesse clube de pessoas com habilidades especiais. Lemos os livros, assistimos aos filmes, ouvimos falar das inovações criadas por pessoas que souberam pensar de forma não tradicional, quebrando regras e se lançando para o desconhecido de maneira impetuosa e sem medo de errar. Quantas histórias assim você conhece? Leonardo da Vinci, Giordano Bruno, Van Gogh, Marcel Duchamp, Isadora Duncan, Jorge Luis Borges, Niels Bohr, Marie Curie, George Orwell, Clarice Lispector, Nina Simone, Malcolm X, Steve Jobs… Conseguiríamos, eu e você, ficar aqui num bate-bola eterno, citando nomes e nomes de pessoas incríveis que contestaram os valores de suas épocas e foram grandes em suas áreas específicas de atuação. Mas até que ponto somos estimulados a fazer o mesmo?

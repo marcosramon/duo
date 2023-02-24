@@ -1,12 +1,15 @@
 ---
-layout: post
-date: 2014-08-12
-title: "Ficções #06 - Privacidade"
-description: "A privacidade ainda é um valor importante na atualidade?"
+title: 'Ficções #06 - Privacidade'
+date: 2014-08-12 00:00:00 Z
 published: false
-tags: [podcast, filosofia]
+categories:
+- ficcoes
+tags:
+- podcast
+- filosofia
+layout: post
+description: A privacidade ainda é um valor importante na atualidade?
 image: ficcoes.jpg
-categories: ficcoes
 author: Marcos Ramon
 ---
 

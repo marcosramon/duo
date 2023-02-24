@@ -1,14 +1,15 @@
 ---
-title: "Pokémon Sleep"
-description: "Jogar até dormindo?"
-date: 2019-06-04
-tags: 
-  - Jogos
-  - Nintendo
-  - Pokémon
-  - Reflexão
+title: Pokémon Sleep
+date: 2019-06-04 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Jogos
+- Nintendo
+- Pokémon
+- Reflexão
+description: Jogar até dormindo?
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Pokmon-Sleep-e48bfo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

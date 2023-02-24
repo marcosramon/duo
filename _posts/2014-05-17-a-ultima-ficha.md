@@ -1,11 +1,12 @@
 ---
-layout: post
 title: A última ficha
-published: true
-tags: [desenho]
-date: 2014-05-17
+date: 2014-05-17 00:00:00 Z
+categories:
+- blog
+tags:
+- desenho
+layout: post
 image: aultimaficha.jpg
-categories: blog
 author: Marcos Ramon
 ---
 

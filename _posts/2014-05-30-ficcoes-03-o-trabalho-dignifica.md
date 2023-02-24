@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "Ficções #03 - O trabalho dignifica?"
+title: 'Ficções #03 - O trabalho dignifica?'
+date: 2014-05-30 00:00:00 Z
 published: false
-description: "O trabalho dignifica o homem? Nesse episódio eu analiso como a concepção do trabalho interfere na nossa percepção sobre nós mesmos."
-tags: [podcast, filosofia]
-date: 2014-05-30
+categories:
+- ficcoes
+tags:
+- podcast
+- filosofia
+layout: post
+description: O trabalho dignifica o homem? Nesse episódio eu analiso como a concepção
+  do trabalho interfere na nossa percepção sobre nós mesmos.
 image: ficcoes.jpg
-categories: ficcoes
 author: Marcos Ramon
 ---
 

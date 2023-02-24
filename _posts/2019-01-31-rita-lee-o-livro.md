@@ -1,14 +1,15 @@
 ---
-title: "Rita Lee (o livro)"
-excerpt: "A memória é uma coisa estranha. Quando tentamos lembrar de fatos recentes ou de coisas que deveríamos lembrar, ela nos prega uma peça e esquecemos de tudo."
-last_modified_at: 2019-01-31T10:27:01-05:00
-date: 2019-01-31
-og_image: assets/images/rita-lee.jpeg
-tags: 
-  - literatura
-  - música
+title: Rita Lee (o livro)
+date: 2019-01-31 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- literatura
+- música
+excerpt: A memória é uma coisa estranha. Quando tentamos lembrar de fatos recentes
+  ou de coisas que deveríamos lembrar, ela nos prega uma peça e esquecemos de tudo.
+last_modified_at: 2019-01-31 15:27:01 Z
+og_image: assets/images/rita-lee.jpeg
 ---
 
 A memória é uma coisa estranha. Quando tentamos lembrar de fatos recentes ou de coisas que deveríamos lembrar, ela nos prega uma peça e esquecemos de tudo. Por outro lado, várias coisas que lembramos são na verdade um conjunto de invenções, pequenas mentiras que contamos a nós mesmos, querendo nos convencer de que realmente foi assim.

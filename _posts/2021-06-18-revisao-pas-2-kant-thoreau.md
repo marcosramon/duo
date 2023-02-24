@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: aulas
-image: pasunb22020.jpg
 title: Revisão PAS UnB 2 (Kant e Thoreau)
-excerpt: "Revisão com vídeos e questões sobre os textos de Kant e Thoreau indicados para o PAS 2, da UnB"
+date: 2021-06-18 00:00:00 Z
+categories:
+- aulas
+layout: post
+image: pasunb22020.jpg
+excerpt: Revisão com vídeos e questões sobre os textos de Kant e Thoreau indicados
+  para o PAS 2, da UnB
 ---
 
 Olá, tudo bem? Aqui você vai encontrar dois vídeos em que faço uma apresentação breve de dois textos indicados para a prova do PAS/UnB, 2ª etapa, de 2020. Os textos são "Resposta à pergunta: o que é o Esclarecimento?", de Kant, e "A desobediência civil", de Henry David Thoreau. 

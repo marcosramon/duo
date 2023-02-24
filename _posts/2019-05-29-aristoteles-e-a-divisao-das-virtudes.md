@@ -1,13 +1,14 @@
 ---
-title: "Aristóteles e a divisão das virtudes"
-description: "O que define uma virtude?"
-date: 2019-05-29
-tags: 
-  - Aristóteles
-  - Ética
-  - Virtude
+title: Aristóteles e a divisão das virtudes
+date: 2019-05-29 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Aristóteles
+- Ética
+- Virtude
+description: O que define uma virtude?
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Aristteles-e-a-diviso-das-virtudes-e46eha" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

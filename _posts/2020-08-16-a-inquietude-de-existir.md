@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: blog
-image: haxneul.jpeg
 title: A inquietude de existir
-excerpt: "A razão não é a libertação e a possibilidade do controle, mas sim o reconhecimento dos nossos limites."
+date: 2020-08-16 00:00:00 Z
+categories:
+- blog
+layout: post
+image: haxneul.jpeg
+excerpt: A razão não é a libertação e a possibilidade do controle, mas sim o reconhecimento
+  dos nossos limites.
 ---
 
 Sartre atribuiu ao filósofo dinamarquês [Søren Kierkegaard](https://pt.wikipedia.org/wiki/S%C3%B6ren_Kierkegaard){:target="_blank"} (1813–1855) o início do existencialismo. Quando se ocupou da existência humana, da angústia e do sofrimento, Kierkegaard colocou em foco aquilo que os filósofos anteriores tentaram sublimar: a inquietude de existir.

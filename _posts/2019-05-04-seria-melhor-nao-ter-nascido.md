@@ -1,13 +1,14 @@
 ---
-title: "Seria melhor não ter nascido?"
-description: "Sobre Nietzsche, Schopenhauer e o sofrimento do mundo."
-date: 2019-05-04
+title: Seria melhor não ter nascido?
+date: 2019-05-04 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Nietzsche
+- Schopenhauer
+- Sofrimento
+description: Sobre Nietzsche, Schopenhauer e o sofrimento do mundo.
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Nietzsche
-  - Schopenhauer
-  - Sofrimento
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Seria-melhor-no-ter-nascido-e3ublg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

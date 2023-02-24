@@ -1,10 +1,12 @@
 ---
+title: Sobre o espetáculo “Mobilidade Cultural — Corpos em Movimento” (para os estudantes
+  e professores envolvidos)
+date: 2015-04-08 00:00:00 Z
+categories:
+- blog
 layout: post
-published: true
-categories: blog
 image: corpos.png
-title: Sobre o espetáculo “Mobilidade Cultural — Corpos em Movimento” (para os estudantes e professores envolvidos)
-excerpt: "O que a arte pode fazer com a gente?"
+excerpt: O que a arte pode fazer com a gente?
 ---
 
 Tenho que dizer que estou sentindo inveja de vocês. E não é “inveja boa”, como se diz. Até porque não existe isso de inveja boa. A inveja é ruim e pronto. É sinal de raiva e mau-caratismo. É isso que eu sinto. E é isso que eu sou.

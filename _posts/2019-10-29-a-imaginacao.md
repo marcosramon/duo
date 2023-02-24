@@ -1,15 +1,14 @@
 ---
-title: "A imaginação"
-excerpt: "Somos melhor definidos pela nossa capacidade de raciocinar ou de imaginar?"
-date: 2019-10-29
-published: true
-header:
-tags: 
-  - filosofia
-  - conhecimento
-  - reflexão
+title: A imaginação
+date: 2019-10-29 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- filosofia
+- conhecimento
+- reflexão
+excerpt: Somos melhor definidos pela nossa capacidade de raciocinar ou de imaginar?
+header: 
 ---
 
 Montaigne escreveu, no capítulo XX dos seus [Ensaios](https://amzn.to/2Nj2aJO), sobre a força da imaginação. De acordo com ele, todos são, em alguma medida, tocados por ela, ainda que essa influência possa ser mais intensa em uns do que em outros. Sobre o efeito nele mesmo, o filósofo francês escreveu:

@@ -1,11 +1,15 @@
 ---
 title: Só coincidência
-excerpt: "Eu gostaria de acreditar que a minha falta de vontade para fazer as coisas que eu preciso e quero fazer, é apenas uma circunstância."
+date: 2022-03-08 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+- reflexão
+excerpt: Eu gostaria de acreditar que a minha falta de vontade para fazer as coisas
+  que eu preciso e quero fazer, é apenas uma circunstância.
 image: baloon.jpeg
 layout: post
-published: true
-categories: blog
-tags: [cotidiano, reflexão]
 ---
 
 Eu gostaria de acreditar que a minha falta de vontade para fazer as coisas que eu preciso e quero fazer, é apenas uma circunstância. Eu queria acreditar também que o poço não seca e que a gente pode ser sempre criativo, interessante e interessado em tudo o que nos cerca. Mas eu sei, para o bem e para o mal, que não é assim.

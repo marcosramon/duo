@@ -1,17 +1,16 @@
 ---
-title: "O conhecimento obsoleto"
-excerpt: "Dizer o simples nunca foi tão necessário."
-date: 2019-09-13
-published: true
+title: O conhecimento obsoleto
+date: 2019-09-13 00:00:00 Z
+categories:
+- blog
+tags:
+- internet
+- conhecimento
+- ciência
+- tecnologia
+excerpt: Dizer o simples nunca foi tão necessário.
 header:
   og_image: assets/images/Fake.jpg
-tags: 
-  - internet
-  - conhecimento
-  - ciência
-  - tecnologia
-categories:
-  - blog
 ---
 
 Nos últimos tempos temos o desafio (sim, todos nós) de encarar a realidade a partir da ideia de que o conhecimento não é — ou não parece — essencial na vida de boa parte das pessoas. Acredito que não é a maioria que pensa assim. No entanto, cada vez mais se vê gente questionando o valor do conhecimento e julgando a ciência e as humanidades como áreas que não merecem atenção. Veja, não estou dizendo que as pessoas estão questionando as características, proposições ou argumentos de determinada pesquisa ou processo cultural — isso seria positivo. O que muita gente questiona hoje é o *conhecimento em si*.

@@ -1,10 +1,18 @@
 ---
+title: Coisas pra fazer
+date: 2014-11-20 00:00:00 Z
+tags:
+- cotidiano
 layout: post
-date: 2014-11-20
-title: "Coisas pra fazer"
-description: "No final do ano passado eu fiz minha lista de resoluções para 2014. Como o ano já está quase acabando achei que era hora de prestar contas comigo mesmo. Do que me disse que devia fazer consegui algumas coisas: defendi a tese de doutorado, li e escrevi mais do que no ano passado (o que não quer dizer que foi muito) e programei e planejei melhor minhas atividades no trabalho. Por outro lado, sinto que ainda preciso aproveitar melhor o meu tempo com a minha família (inclusive nos organizando pra viajar mais), preciso voltar a escutar e fazer música (só na semana passada voltei a tocar o meu contrabaixo depois de um tempão), tenho que me controlar mais com tudo que consumo e tenho que fazer alguma atividade física."
-published: true
-tags: [cotidiano]
+description: 'No final do ano passado eu fiz minha lista de resoluções para 2014.
+  Como o ano já está quase acabando achei que era hora de prestar contas comigo mesmo.
+  Do que me disse que devia fazer consegui algumas coisas: defendi a tese de doutorado,
+  li e escrevi mais do que no ano passado (o que não quer dizer que foi muito) e programei
+  e planejei melhor minhas atividades no trabalho. Por outro lado, sinto que ainda
+  preciso aproveitar melhor o meu tempo com a minha família (inclusive nos organizando
+  pra viajar mais), preciso voltar a escutar e fazer música (só na semana passada
+  voltei a tocar o meu contrabaixo depois de um tempão), tenho que me controlar mais
+  com tudo que consumo e tenho que fazer alguma atividade física.'
 author: Marcos Ramon
 header-img: "/img/abstrato4.jpg"
 ---

@@ -1,15 +1,15 @@
 ---
-layout: post
 title: Freemium? Nem de graça.
-description: "A praga do modelo freemium se espalha pelo mundo"
-published: true
-tags: [tecnologia]
+date: 2013-12-19 00:00:00 Z
+categories:
+- blog
+tags:
+- tecnologia
+layout: post
+description: A praga do modelo freemium se espalha pelo mundo
 image: abstrato6.jpg
-date: 2013-12-19
 author: Marcos Ramon
-categories: blog
 ---
-
 
 Eu tinha um Nintendo Dsi. Arthur me tomou ele quando descobriu que conseguia jogar. Ele tinha dois anos e dois meses. Desde então ele jogou muitos jogos (e já terminou quase o mesmo tanto que eu na minha vida toda) e temos compartilhado da diversão mágica que só a Nintendo consegue criar com seus jogos.
      

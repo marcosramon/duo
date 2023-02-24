@@ -1,16 +1,19 @@
 ---
-title: "Para entender o nosso tempo"
-excerpt: "Às vezes tenho a sensação de que o meu tempo é o mesmo de todas as outras pessoas, em qualquer época, em qualquer circunstância. Mas claro que não é assim. As coisas mudam, os modos de viver e entender a realidade mudam, as pessoas são sempre diferentes em cada cultura ou momento histórico."
-date: 2019-08-21
-published: true
-og_image: assets/images/virginia.png
-tags: 
-  - ciência
-  - conhecimento
-  - pesquisa
+title: Para entender o nosso tempo
+date: 2019-08-21 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- ciência
+- conhecimento
+- pesquisa
+excerpt: Às vezes tenho a sensação de que o meu tempo é o mesmo de todas as outras
+  pessoas, em qualquer época, em qualquer circunstância. Mas claro que não é assim.
+  As coisas mudam, os modos de viver e entender a realidade mudam, as pessoas são
+  sempre diferentes em cada cultura ou momento histórico.
+og_image: assets/images/virginia.png
 ---
+
 Às vezes tenho a sensação de que o meu tempo é o mesmo de todas as outras pessoas, em qualquer época, em qualquer circunstância. Mas claro que não é assim. As coisas mudam, os modos de viver e entender a realidade mudam, as pessoas são sempre diferentes em cada cultura ou momento histórico.
 
 Esses dias vi uma pesquisa que alertava para o fato de que a maior parte dos estudos de psicologia social são realizados com estudantes das Universidades. E por que isso é ruim? Porque desconsidera a diversidade de pensamentos, de jeitos de viver e entender a existência. Ainda assim, esses estudos, realizados com estudantes de classe média que passaram quase a vida inteira em grandes cidades, propõem o entendimento da *psique* humana, apontando para dados e informações que dizem respeito a todos nós. Como você pode imaginar, nada mais ingênuo. Mas é assim que as pesquisas são feitas. 

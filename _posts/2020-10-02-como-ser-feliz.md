@@ -1,10 +1,14 @@
 ---
-layout: post
-published: true
-categories: blog
-image: comoserfeliz.jpeg
 title: Como ser feliz
-excerpt: "O utilitarismo é uma teoria que aponta para a necessidade de buscarmos a maior felicidade possível para o maior número de pessoas. Mas o problema inicial desse tipo de proposição é tentar entender como podemos ser felizes. E existe uma resposta pra isso?"
+date: 2020-10-02 00:00:00 Z
+categories:
+- blog
+layout: post
+image: comoserfeliz.jpeg
+excerpt: O utilitarismo é uma teoria que aponta para a necessidade de buscarmos a
+  maior felicidade possível para o maior número de pessoas. Mas o problema inicial
+  desse tipo de proposição é tentar entender como podemos ser felizes. E existe uma
+  resposta pra isso?
 ---
 
 O [utilitarismo](https://g.co/kgs/VaQQcV) é uma teoria que aponta para a necessidade de buscarmos a maior felicidade possível para o maior número de pessoas. Mas o problema inicial desse tipo de proposição é tentar entender como podemos ser felizes. E existe uma resposta pra isso? Se a gente pensar bem, não deveria existir coisa mais importante pra se responder. Afinal, essa é a pergunta definitiva: “como ser feliz?”. Mas existem empecilhos pra gente chegar no ponto em que possamos nos dedicar a isso. Em primeiro lugar, o mundo quase todo caminha em uma direção contrária à ideia de felicidade. A preocupação mais recorrente que existe é com metas, com sucesso. Então, procuramos ser bem-sucedidos, realizados profissionalmente, conquistando coisas e objetivos; e, sim, isso pode ter relação com a felicidade, mas não quando deixamos de nos importar com as coisas mais pessoais, mais íntimas. Quando tratamos a vida como um negócio que precisa dar certo, a felicidade só aparece (quando aparece) por acaso — o que é muito pouco.

@@ -1,12 +1,16 @@
 ---
-layout: post
 title: As "facilidades" da vida
-description: "Vim de carro pro trabalho hoje. Dirigi durante uns 15 minutos na incrível velocidade de 05 Km/h. No som do carro Iggy Pop gritava I got a lust for life e eu sentia a ironia de estar preso num engarrafamento sem sentido esperando o tempo passar ouvindo alguém cantando sobre os prazeres e diversões da vida."
-published: true
-tags: [cotidiano]
+date: 2014-08-12 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
+description: Vim de carro pro trabalho hoje. Dirigi durante uns 15 minutos na incrível
+  velocidade de 05 Km/h. No som do carro Iggy Pop gritava I got a lust for life e
+  eu sentia a ironia de estar preso num engarrafamento sem sentido esperando o tempo
+  passar ouvindo alguém cantando sobre os prazeres e diversões da vida.
 image: facilidadesdavida.png
-categories: blog
-date: 2014-08-12
 author: Marcos Ramon
 ---
 

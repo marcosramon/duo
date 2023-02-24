@@ -1,14 +1,15 @@
 ---
-title: "Quando a arte nos define"
-excerpt: "A arte faz parte da vida de todos nós de uma maneira tão intensa que é desafiador pensar em uma vida sem arte."
-last_modified_at: 2019-04-20T10:27:01-05:00
-date: 2019-04-20
-og_image: assets/images/describe.jpg
+title: Quando a arte nos define
+date: 2019-04-20 00:00:00 Z
 categories:
-  - blog
-tags: 
-  - arte
-  - reflexão
+- blog
+tags:
+- arte
+- reflexão
+excerpt: A arte faz parte da vida de todos nós de uma maneira tão intensa que é desafiador
+  pensar em uma vida sem arte.
+last_modified_at: 2019-04-20 15:27:01 Z
+og_image: assets/images/describe.jpg
 ---
 
 A arte faz parte da vida de todos nós de uma maneira tão intensa que é desafiador pensar em uma vida sem arte. Imagine alguém que não goste de música, cinema, literatura, teatro, dança... Será que você conhece alguém assim?

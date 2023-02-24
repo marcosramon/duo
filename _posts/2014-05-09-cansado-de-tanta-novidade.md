@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Cansado de tanta novidade
-published: true
-description: "A gente certamente poderia viver sem tanta coisa."
-tags: [desenho, cotidiano, tecnologia]
+date: 2014-05-09 00:00:00 Z
+categories:
+- blog
+tags:
+- desenho
+- cotidiano
+- tecnologia
+layout: post
+description: A gente certamente poderia viver sem tanta coisa.
 header-img: "/img/abstrato3.jpg"
-categories: blog
-date: 2014-05-09
 author: Marcos Ramon
 ---
 

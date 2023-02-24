@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Uma ilusão por vez
-description: "Sabe quando você pensa que tudo se encaminha do jeito certo e de repente acontece uma reviravolta qualquer que te faz quase desistir de tentar?"
-date: 2014-09-25
-published: true
+date: 2014-09-25 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
+description: Sabe quando você pensa que tudo se encaminha do jeito certo e de repente
+  acontece uma reviravolta qualquer que te faz quase desistir de tentar?
 image: stars.jpg
-categories: blog
-tags: [cotidiano]
 author: Marcos Ramon
 ---
 

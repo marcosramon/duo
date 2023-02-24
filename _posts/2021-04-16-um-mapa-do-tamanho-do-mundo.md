@@ -1,10 +1,13 @@
 ---
-layout: post
-published: true
-categories: blog
-image: Gillam2.jpg
 title: Um mapa do tamanho do mundo
-excerpt: "Esses dias, organizando uma aula de Metodologia de Pesquisa pra uma turma do Mestrado em que eu dou aula, lembrei de um texto do Jorge Luis Borges, chamado *Do rigor na ciência*."
+date: 2021-04-16 00:00:00 Z
+categories:
+- blog
+layout: post
+image: Gillam2.jpg
+excerpt: Esses dias, organizando uma aula de Metodologia de Pesquisa pra uma turma
+  do Mestrado em que eu dou aula, lembrei de um texto do Jorge Luis Borges, chamado
+  *Do rigor na ciência*.
 ---
 
 Esses dias, organizando uma aula de Metodologia de Pesquisa pra uma turma do Mestrado em que eu dou aula, lembrei de um texto do Jorge Luis Borges, chamado *Do rigor na ciência*. Esse texto foi publicado na primeira edição de um livro chamado *História Universal da Infâmia*. Depois, começou a integrar outro livro de Borges, chamado *O Fazedor*. É esse que eu tenho aqui e de onde eu leio esse texto.

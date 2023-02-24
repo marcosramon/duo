@@ -1,14 +1,14 @@
 ---
-title: "Banksy ou: como a arte de rua pode ser pop?"
-description: "A street art também tem seus ídolos e Banksy certamente é um deles. Banksy faz suas intervenções em toda Nova York, geralmente sem permissão dos donos do espaço"
-date: 2013-10-27
-published: true
-image: banksy01.jpg
-tags: 
-  - arte
-  - comportamento
+title: 'Banksy ou: como a arte de rua pode ser pop?'
+date: 2013-10-27 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- arte
+- comportamento
+description: A street art também tem seus ídolos e Banksy certamente é um deles. Banksy
+  faz suas intervenções em toda Nova York, geralmente sem permissão dos donos do espaço
+image: banksy01.jpg
 ---
 
 A *street art* também tem seus ídolos e [Banksy](http://www.banksyny.com/) certamente é um deles. Banksy faz suas intervenções em toda Nova York, geralmente sem permissão dos "donos" do espaço.

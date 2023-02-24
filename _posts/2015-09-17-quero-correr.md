@@ -1,10 +1,10 @@
 ---
+title: Quero correr
+date: 2015-09-17 00:00:00 Z
+categories:
+- cotidiano
 layout: post
-date: 2015-09-17
-title: "Quero correr"
-description: "Acordei querendo correr."
-published: true
-categories: [cotidiano]
+description: Acordei querendo correr.
 image: https://db.tt/kquffcgi
 author: Marcos Ramon
 header-img: "/img/abstrato4.jpg"

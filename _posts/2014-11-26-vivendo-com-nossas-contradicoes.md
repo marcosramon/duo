@@ -1,14 +1,13 @@
 ---
-title: "Vivendo com nossas contradições"
-excerpt: "Sobre a beleza da falta de coerência"
-date: 2014-11-26
-published: true
-og_image: /assets/images/chaingang.jpg
-tags: 
-  - cotidiano
-  - comportamento
+title: Vivendo com nossas contradições
+date: 2014-11-26 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- cotidiano
+- comportamento
+excerpt: Sobre a beleza da falta de coerência
+og_image: "/assets/images/chaingang.jpg"
 ---
 
 Não existe nada mais humano do que viver nossas contradições. Dia desses estava em uma palestra ouvindo um professor que se nomeava comunista, critiva o Estado, o sistema, o fetichismo da mercadoria etc. Em dado momento da palestra tocou o celular dele e o toque era uma música do *The Pretenders* ([Back on the Chain Gang](https://www.youtube.com/watch?v=CK3uf5V0pDA)):

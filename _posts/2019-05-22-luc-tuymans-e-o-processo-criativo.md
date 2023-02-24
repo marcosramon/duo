@@ -1,13 +1,14 @@
 ---
-title: "Luc Tuymans e o processo criativo"
-description: "Sobre Luc Tuymans, memória e criatividade."
-date: 2019-05-22
-tags: 
-  - Arte
-  - Criatividade
-  - Memória
+title: Luc Tuymans e o processo criativo
+date: 2019-05-22 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Arte
+- Criatividade
+- Memória
+description: Sobre Luc Tuymans, memória e criatividade.
 image: ficcoes.jpg
-categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Luc-Tuymans-e-o-processo-criativo-e44861" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

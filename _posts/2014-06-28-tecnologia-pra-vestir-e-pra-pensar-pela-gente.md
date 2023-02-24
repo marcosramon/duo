@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Tecnologia pra vestir - e pra pensar pela gente
-published: true
-description: "Queremos mais tecnologia pra nos vigiar?"
-date: 2014-06-28
+date: 2014-06-28 00:00:00 Z
+categories:
+- blog
+tags:
+- tecnologia
+- internet
+layout: post
+description: Queremos mais tecnologia pra nos vigiar?
 image: abstrato5.jpg
-categories: blog
-tags: [tecnologia, internet]
 ---
 
 Certamente eu não sou o único que quero um relógio desses pra usar:

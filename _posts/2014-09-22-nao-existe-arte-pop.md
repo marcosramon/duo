@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Não existe arte pop...
-description: "A utilização da expressão arte pop remete às experimentações de Richard Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros."
-date: 2014-09-22
+date: 2014-09-22 00:00:00 Z
+categories:
+- blog
+tags:
+- arte
+layout: post
+description: A utilização da expressão arte pop remete às experimentações de Richard
+  Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros.
 image: drowninggirl.jpg
-categories: blog
-published: true
-tags: [arte]
 ---
 
 ... só o que existe é arte. 

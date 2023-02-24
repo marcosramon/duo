@@ -1,8 +1,11 @@
 ---
 title: Desenhando
-description: "Se existe algo que exerce um encanto natural pra quase todo mundo é a habilidade manual."
+date: 2017-02-14 00:00:00 Z
+categories:
+- blog
+description: Se existe algo que exerce um encanto natural pra quase todo mundo é a
+  habilidade manual.
 image: sketchbook.jpeg
-categories: blog
 ---
 
 Se existe algo que exerce um encanto natural pra quase todo mundo (quis escrever “pra todo mundo”, mas vai saber) é a habilidade manual. E talvez seja essa a fonte de maravilha que faz os olhos das pessoas brilharem diante de um sketchbook.

@@ -1,10 +1,12 @@
 ---
-layout: post
-date: 2014-10-12
 title: A vida é uma espera
+date: 2014-10-12 00:00:00 Z
+categories:
+- blog
+tags:
+- cotidiano
+layout: post
 description: Você sabe esperar?
-tags: [cotidiano]
-categories: blog
 author: Marcos Ramon
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Sobre
+layout: page
 image: toll-site.png
-description: "Marcos Ramon | Pesquisador, escritor, podcaster"
+description: Marcos Ramon | Pesquisador, escritor, podcaster
 ---
 
 ## O autor

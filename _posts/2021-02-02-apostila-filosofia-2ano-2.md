@@ -1,10 +1,12 @@
 ---
-layout: post
-published: true
-categories: aulas
-image: 
 title: Apostila Filosofia 2º ano (parte 2)
-excerpt: "Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria do conhecimento + lógica"
+date: 2021-02-02 00:00:00 Z
+categories:
+- aulas
+layout: post
+image: 
+excerpt: 'Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria do conhecimento
+  + lógica'
 ---
 
 Olá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia trabalhados no 2º Bimestre (2020) para o estudantes do 2º ano do Curso Técnico em Informática Integrado ao Ensino Médio (IFB). Agora, se você não é desse curso, mas tiver interesse no assunto, pode ler também, viu? Não se acanhe não. Para facilitar o acesso, utilize o índice abaixo:

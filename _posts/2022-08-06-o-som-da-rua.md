@@ -1,8 +1,11 @@
 ---
-layout: post
-categories: blog
-excerpt: "Muitas vezes ficamos sem opção de escolher o silêncio (ou o que seria mais próximo dele), e o barulho quase nos consome."
 title: O som da rua
+date: 2022-08-06 00:00:00 Z
+categories:
+- blog
+layout: post
+excerpt: Muitas vezes ficamos sem opção de escolher o silêncio (ou o que seria mais
+  próximo dele), e o barulho quase nos consome.
 image: somdarua.png
 ---
 

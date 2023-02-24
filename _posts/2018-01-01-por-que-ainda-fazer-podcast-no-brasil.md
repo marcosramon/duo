@@ -1,16 +1,14 @@
 ---
-title: "Por que ainda fazer podcast no Brasil?"
-excerpt: "Ainda existem motivos pra isso."
-last_modified_at: 2018-01-01T10:27:01-05:00
-date: 2018-01-01
+title: Por que ainda fazer podcast no Brasil?
+date: 2018-01-01 00:00:00 Z
+categories:
+- blog
+tags:
+- reflexão
+- podcast
+excerpt: Ainda existem motivos pra isso.
+last_modified_at: 2018-01-01 15:27:01 Z
 og_image: assets/images/podcast.png
-categories:
-  - Post
-tags: 
-  - reflexão
-  - podcast
-categories:
-  - blog
 ---
 
 Em 2015 o meu podcast ainda estava bem no começo e um post do Thiago Miro no Mundo Podcast ajudou muito na chegada de muitos novos ouvintes. O post "[12 novos podcasts que valem a pena ouvir](https://mundopodcast.com.br/artigos/12-novos-podcasts-para-ouvir/)" permitiu que o Ficções saísse do anonimato quase total (eu mesmo não conhecia ninguém que ouvia o meu podcast até alguém comentar no site dizendo que veio por indicação desse texto) e me deu forças pra continuar produzindo podcast até hoje. Por esses dias tive a curiosidade de voltar até aquela lista para saber o que aconteceu com os outros podcasts indicados.

@@ -1,10 +1,14 @@
 ---
-layout: post
-published: true
-categories: blog
-image: dance.jpg
 title: Por que a filosofia foge da dança?
-excerpt: "A estética, como disciplina filosófica, é recente. No entanto, desde Platão existem vestígios da reflexão sobre a dança a partir de obras filosóficas. Mas se é verdade que o próprio Platão escreveu sobre a dança em alguns de seus diálogos, o mesmo não vale para a maioria dos pensadores que vieram depois."
+date: 2020-06-02 00:00:00 Z
+categories:
+- blog
+layout: post
+image: dance.jpg
+excerpt: A estética, como disciplina filosófica, é recente. No entanto, desde Platão
+  existem vestígios da reflexão sobre a dança a partir de obras filosóficas. Mas se
+  é verdade que o próprio Platão escreveu sobre a dança em alguns de seus diálogos,
+  o mesmo não vale para a maioria dos pensadores que vieram depois.
 ---
 
 A estética, como disciplina filosófica, é recente. No entanto, desde Platão existem vestígios da reflexão sobre a dança a partir de obras filosóficas. Mas se é verdade que o próprio Platão escreveu sobre a dança em alguns de seus diálogos, o mesmo não vale para a maioria dos pensadores que vieram depois. Por quê?

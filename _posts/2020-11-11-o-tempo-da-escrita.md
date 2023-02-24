@@ -1,10 +1,11 @@
 ---
-layout: post
-published: true
-categories: blog
-image: Escrita.jpg
 title: O tempo da escrita
-excerpt: "Manter um ritmo de produção sempre foi uma coisa difícil pra mim."
+date: 2020-11-11 00:00:00 Z
+categories:
+- blog
+layout: post
+image: Escrita.jpg
+excerpt: Manter um ritmo de produção sempre foi uma coisa difícil pra mim.
 ---
 
 Manter um ritmo de produção sempre foi uma coisa difícil pra mim. 

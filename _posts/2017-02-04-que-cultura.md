@@ -1,15 +1,14 @@
 ---
-title: "Que cultura?"
-excerpt: "Sobre a ideia de cultura como mercadoria"
-date: 2017-02-04
-published: true
-og_image: assets/images/renascimento.jpg
-tags: 
-  - sociedade
-  - cultura
-  - comportamento
+title: Que cultura?
+date: 2017-02-04 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- sociedade
+- cultura
+- comportamento
+excerpt: Sobre a ideia de cultura como mercadoria
+og_image: assets/images/renascimento.jpg
 ---
 
 Durante todo o século XX o que se observou, em relação à cultura, foi um aumento da concepção de cultura como mercadoria. O tema é analisado de maneira extensa pelos autores da Escola de Frankfurt ([Adorno, Horkheimer](http://amzn.to/2kEWEVc){:target="_blank"} e seus seguidores), e por muitos outros de vertentes distintas (um dos mais recentes foi [Mario Vargas Llosa](http://amzn.to/2kAAu6Q){:target="_blank"}).

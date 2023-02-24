@@ -1,15 +1,14 @@
 ---
-title: "A hora e a vez do podcast"
-description: "Sobre o crescimento dos podcasts (e o que acontece com o Ficções)"
-date: 2019-06-26
-published: true
-image: tolis2.jpg
-tags: 
-  - podcast
-  - comportamento
-  - cultura
+title: A hora e a vez do podcast
+date: 2019-06-26 00:00:00 Z
 categories:
-  - blog
+- blog
+tags:
+- podcast
+- comportamento
+- cultura
+description: Sobre o crescimento dos podcasts (e o que acontece com o Ficções)
+image: tolis2.jpg
 ---
 
 Decidi, nas últimas semanas, diminuir o ritmo de publicações do [Ficções](https://marcosramon.net/ficcoes/){:target="_blank"}. Faço o podcast desde 2014 e já falei várias vezes sobre como gosto da mídia e de produzir o podcast, mesmo que o trabalho nele me tire o tempo que eu poderia dedicar a outras coisas. E aí, ouvindo o [Anticast 391](http://anticast.com.br/2019/06/anticast/anticast-391-o-ano-do-podcast-no-brasil/){:target="_blank"} sobre o desenvolvimento do podcast no Brasil, fiquei pensando em como é incrível o momento em que estamos na mídia, com tantas oportunidades, tantas possibilidades. Mas que não são pra mim.

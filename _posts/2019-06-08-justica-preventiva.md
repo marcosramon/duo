@@ -1,14 +1,15 @@
 ---
-title: "Justiça preventiva"
-description: "Temos livre-arbítrio mesmo?"
-date: 2019-06-08
+title: Justiça preventiva
+date: 2019-06-08 00:00:00 Z
+categories:
+- ficcoes
+tags:
+- Justiça
+- Liberdade
+- Determinismo
+- Ética
+description: Temos livre-arbítrio mesmo?
 image: ficcoes.jpg
-categories: ficcoes
-tags: 
-  - Justiça
-  - Liberdade
-  - Determinismo
-  - Ética
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Justia-preventiva-e49ke3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
