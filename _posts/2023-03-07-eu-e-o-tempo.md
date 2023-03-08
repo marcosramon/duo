@@ -12,4 +12,4 @@ Todas essas formas de pensar pressupõem o tempo como agente externo, como aquil
 
 Não podemos fugir do tempo, não podemos dispensar sua ajuda, não podemos esquecê-lo, não podemos abandoná-lo e nem sermos deserdados por ele... porque somos o tempo. Não podemos ser outra coisa.
 
-<img src="/assets/images/23C4F8E4-511B-4825-BB73-6B1AB0F01885.jpeg">
+<img src="/assets/images/sombra.jpeg">
