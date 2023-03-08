@@ -11,3 +11,5 @@ Todas essas formas de pensar pressupõem o tempo como agente externo, como aquil
 > "O tempo é a substância de que sou feito. O tempo é um rio que me arrasta, mas eu sou o rio; é um tigre que me destroça, mas eu sou o tigre; é um fogo que me consome, mas eu sou o fogo." (Jorge Luis Borges, *O fazedor*)
 
 Não podemos fugir do tempo, não podemos dispensar sua ajuda, não podemos esquecê-lo, não podemos abandoná-lo e nem sermos deserdados por ele... porque somos o tempo. Não podemos ser outra coisa.
+
+<img src="/assets/images/23C4F8E4-511B-4825-BB73-6B1AB0F01885.jpeg">
