@@ -2,6 +2,7 @@
 title: Arte e vida
 excerpt: A arte pode ser uma forma de nos relacionarmos de uma forma melhor cada um consigo mesmo.
 layout: post
+published: true
 ---
 
 Talvez a arte seja mesmo, como afirma Alain de Botton[^1], uma forma de terapia. E por intuir isso desde sempre é que eu me empurrei para escrever, desenhar, tocar um instrumento. Mas mesmo se a arte for “uma forma de descobrir quem somos”, isso não quer dizer que seja essa a *solução simples* que todos procuram — viver nunca é simples; se relacionar consigo mesmo, menos ainda.
