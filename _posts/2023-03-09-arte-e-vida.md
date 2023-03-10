@@ -13,4 +13,6 @@ Da minha parte, tem dias que faço algo que quero mostrar (como hoje), mas o mai
 
 O mais importante mesmo (quer eu me orgulhe do que estou criando, ou não) é seguir fazendo.
 
+<img src="/assets/images/20230310_165905-01.jpeg">
+
 [^1]: "A arte é uma forma de terapia, uma forma de fazer sentido do mundo e da vida. Ela é uma forma de descobrir quem somos e de encontrar significado e propósito em nossas vidas." (Botton, A. Arte como Terapia. São Paulo: Editora WMF Martins Fontes, 2013.)
