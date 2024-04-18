@@ -79,12 +79,11 @@
               </time>
             </p>
           {% endif %}
-          <p class="twitter-share-button-wrapper">
-            <a class="twitter-share-button"
-            href="https://twitter.com/intent/tweet"
-            data-size="large"
-            data-via="{{ site.twitter.username }}">
-            Tweet</a>
+<p class="email-share-button-wrapper">
+    <a class="email-share-button"
+       href="mailto:?subject=Confira este post&body=Veja este post: {{ page.url | absolute_url }}"
+       data-size="large">
+    Compartilhe por Email</a>
           </p>
           {{content}}
           {% if page.date %}
