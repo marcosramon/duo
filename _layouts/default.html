@@ -79,11 +79,11 @@
               </time>
             </p>
           {% endif %}
-<p class="email-share-button-wrapper">
+<p class="email-share-button-wrapper" style="font-size: 20px;"> <!-- Ajuste o font-size conforme necessário -->
     <a class="email-share-button"
        href="mailto:?subject=Confira este post&body=Veja este post: {{ page.url | absolute_url }}"
-       data-size="large">
-    <img src="/assets/font-awesome/envelope-solid.svg" height="20" width="30">Compartilhe</a>
+       style="text-decoration: none; color: inherit;"> <!-- Remove underline e usa a cor do texto herdada -->
+        <img src="/assets/font-awesome/envelope-solid.svg" style="vertical-align: middle; height: 20px; width: 30px; margin-right: 5px;">Compartilhe</a>
 </p>
           {{content}}
           {% if page.date %}
