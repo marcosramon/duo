@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Um pouco menos de postach.io (por enquanto)
-published: false
+published: true
 tags: [Cotidiano]
 author: Marcos Ramon
 ---
