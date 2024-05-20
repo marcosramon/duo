@@ -3,7 +3,7 @@ layout: post
 date: 2015-04-20
 title: "Não vá se perder por aí #02"
 description: "Dicas de links bacanas pra você passar a semana."
-published: false
+published: true
 tags: [cotidiano, dicas]
 image: "https://dl.dropboxusercontent.com/u/49566417/blog/04_2015/Jules-Undersea-Lodge.jpg"
 author: Marcos Ramon
