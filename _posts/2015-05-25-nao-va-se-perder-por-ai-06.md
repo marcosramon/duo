@@ -3,7 +3,7 @@ layout: post
 date: 2015-05-25
 title: "Não vá se perder por aí #06"
 description: "Dicas de links bacanas pra você passar a semana."
-published: false
+published: true
 tags: [cotidiano, dicas]
 image: "https://dl.dropboxusercontent.com/u/49566417/blog/05_2015/11.gif"
 author: Marcos Ramon
