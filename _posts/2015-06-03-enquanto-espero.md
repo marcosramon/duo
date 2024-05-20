@@ -3,7 +3,7 @@ layout: post
 date: 2015-06-03
 title: "Enquanto espero"
 description: "Enquanto espero eu torço pra não dar tudo errado, pra eu não perder a paciência, pra eu não desistir de ser essa pessoa que acredita que tem coisas que ainda fazem sentido."
-published: false
+published: true
 tags: [cotidiano]
 image: "https://dl.dropboxusercontent.com/u/49566417/blog/06_2015/nicolas%20party.jpg"
 author: Marcos Ramon
