@@ -3,7 +3,7 @@ layout: post
 date: 2015-05-11
 title: "Não vá se perder por aí #04"
 description: "Dicas de links bacanas pra você passar a semana."
-published: false
+published: true
 tags: [cotidiano, dicas]
 image: "https://dl.dropboxusercontent.com/u/49566417/blog/05_2015/Robert%20Vickrey.jpg"
 author: Marcos Ramon
