@@ -1,6 +1,6 @@
 ---
 title: "O espaço entre nós"
-excerpt: "Um mundo cheio de generalizações"
+excerpt: "Estamos chegando mais perto do objetivo de perder o pouco que ainda temos de nós mesmos"
 date: 2024-05-19
 ---
 
