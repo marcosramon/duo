@@ -3,7 +3,7 @@ layout: post
 date: 2015-04-12
 title: "Não vá se perder por aí #01"
 description: "Dicas de links bacanas pra você passar a semana."
-published: false
+published: true
 tags: [cotidiano, dicas]
 image: "https://dl.dropboxusercontent.com/u/49566417/blog/04_2015/mobilidade%20cultural.jpg"
 author: Marcos Ramon
