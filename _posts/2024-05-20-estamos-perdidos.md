@@ -10,15 +10,7 @@ No dia 13 de Maio, a OpenAI anunciou o ChatGPT-4o, uma nova versão mais rápida
 
 Mas certamente o anúncio mais impactante foi a nova versão do assistente de voz do ChatGPT, que será disponibilizado para assinantes nas próximas semanas. No vídeo de divulgação, vemos os desenvolvedores conversando com o ChatGPT através de um app no smartphone. A voz, claramente emulada da voz de Scarlett Johansson, responde atentamente, mas faz mais do que isso: suspira, muda a entonação, se alegra e interage de maneira natural com as pessoas. Não é bacana, é assustador.
 
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe
-    class="aspect-ratio--object"
-    width="560"
-    height="315"
-    src="https://youtu.be/1uM8jhcqDP0?si=U5Je5s9Ng0CX0jBX"
-    frameborder="0"
-    allowfullscreen></iframe>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1uM8jhcqDP0?si=U5Je5s9Ng0CX0jBX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Por mais que o vídeo tenha sido feito em um ambiente controlado e que o resultado final para os usuários não seja tão fluido assim, foi possível perceber pela apresentação o que a OpenAI está propondo: mais do que um assistente, o que se busca é uma ferramenta que possa se passar efetivamente por um ser humano.
 
@@ -29,3 +21,8 @@ O fato de Sam Altman, CEO da OpenAI, ter feito uma menção direta (e nada criat
 Desde o final de 2022 que tenho me interessado pelo tema da inteligência artificial generativa. Mas sinto agora, e cada vez mais, que fui pego pelo hype e enganado com as perspectivas do impacto que essas ferramentas podem ter em nossas vidas. A OpenAI, o Google, a Microsoft e a Meta estão usando a IA para controlar o tráfego da web, organizar o conteúdo que gira em torno de nós e direcionar nossa forma de usar a internet. Para alcançar esse resultado, elas [não têm escrúpulos em utilizar dados com direitos autorais, alterar termos de uso e fazer vista grossa para práticas antiéticas](https://podcasts.apple.com/us/podcast/intelig%C3%AAncia-artificial-na-educa%C3%A7%C3%A3o-04-a-corrida-em/id967600465?i=1000655170551).
 
 Era óbvio. Sempre foi. Eu não vi porque não quis.
+
+<figure>
+  <img src="/assets/images/smartphone-surreal.png">
+  <figcaption><small>Imagem criada com o Midjourney. Prompt: "surreal photography, a smartphone talking, as someone who is helping someone else, AI, 4k --ar 4:5 --style raw"></small></figcaption>
+</figure>
