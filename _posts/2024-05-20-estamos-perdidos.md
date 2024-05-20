@@ -10,7 +10,7 @@ No dia 13 de Maio, a OpenAI anunciou o ChatGPT-4o, uma nova versão mais rápida
 
 Mas certamente o anúncio mais impactante foi a nova versão do assistente de voz do ChatGPT, que será disponibilizado para assinantes nas próximas semanas. No vídeo de divulgação, vemos os desenvolvedores conversando com o ChatGPT através de um app no smartphone. A voz, claramente emulada da voz de Scarlett Johansson, responde atentamente, mas faz mais do que isso: suspira, muda a entonação, se alegra e interage de maneira natural com as pessoas. Não é bacana, é assustador.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1uM8jhcqDP0?si=U5Je5s9Ng0CX0jBX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/1uM8jhcqDP0?si=U5Je5s9Ng0CX0jBX' frameborder='0' allowfullscreen></iframe></div>
 
 Por mais que o vídeo tenha sido feito em um ambiente controlado e que o resultado final para os usuários não seja tão fluido assim, foi possível perceber pela apresentação o que a OpenAI está propondo: mais do que um assistente, o que se busca é uma ferramenta que possa se passar efetivamente por um ser humano.
 
@@ -24,5 +24,5 @@ Era óbvio. Sempre foi. Eu não vi porque não quis.
 
 <figure>
   <img src="/assets/images/smartphone-surreal.png">
-  <figcaption><small>Imagem criada com o Midjourney. Prompt: "surreal photography, a smartphone talking, as someone who is helping someone else, AI, 4k --ar 4:5 --style raw"></small></figcaption>
+  <figcaption><small>Imagem criada com o Midjourney. Prompt: "surreal photography, a smartphone talking, as someone who is helping someone else, AI, 4k --ar 4:5 --style raw"</small></figcaption>
 </figure>
