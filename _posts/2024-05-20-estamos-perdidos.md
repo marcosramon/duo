@@ -14,7 +14,7 @@ Mas certamente o anúncio mais impactante foi a nova versão do assistente de vo
 
 Por mais que o vídeo tenha sido feito em um ambiente controlado e que o resultado final para os usuários não seja tão fluido assim, foi possível perceber pela apresentação o que a OpenAI está propondo: mais do que um assistente, o que se busca é uma ferramenta que possa se passar efetivamente por um ser humano.
 
-O fato de Sam Altman, CEO da OpenAI, ter feito uma menção direta (e nada criativa) ao filme "Her", me deixou intrigado. Afinal, a mensagem do filme não é nada positiva em relação ao destino da humanidade quando esta avança no desenvolvimento da inteligência artificial. Afinal, qual é o recado que essa empresa quer passar? Só consigo pensar em uma coisa: Estamos perdidos.
+O fato de Sam Altman, CEO da OpenAI, ter feito uma menção direta (e nada criativa) ao filme "Her", me deixou intrigado. Afinal, [a mensagem do filme não é nada positiva em relação ao destino da humanidade](https://marcosramon.net/posts/her/) quando esta avança no desenvolvimento da inteligência artificial. Então, qual é o recado que essa empresa quer passar? Só consigo pensar em uma coisa: Estamos perdidos.
 
 <blockquote class="twitter-tweet"><p lang="qst" dir="ltr">her</p>&mdash; Sam Altman (@sama) <a href="https://twitter.com/sama/status/1790075827666796666?ref_src=twsrc%5Etfw">May 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
