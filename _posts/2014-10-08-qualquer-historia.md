@@ -3,7 +3,7 @@ layout: post
 date: 2014-10-08
 title: Qualquer história
 description: Toda história é interessante. Qualquer uma...
-published: false
+published: true
 tags: [cotidiano]
 header-img: "/img/sky2.jpg"
 author: Marcos Ramon
